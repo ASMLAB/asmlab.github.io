@@ -1,40 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on ASML-Yonsei</title>
+    <title>travel on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/travel/</link>
-    <description>Recent content in Travel on ASML-Yonsei</description>
-    <generator>Hugo</generator>
+    <description>Recent content in travel on ASML-Yonsei</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Aug 2019 08:57:48 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIT visit</title>
       <link>https://airsea.yonsei.ac.kr/news/MITvisit_2019/</link>
       <pubDate>Thu, 29 Aug 2019 08:57:48 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/MITvisit_2019/</guid>
-      <description>Hajoon Song visited MIT again from July 15th to August 20th, 2019, as a visiting professor. He continued to collaborate with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.&#xA;(photo from MIT news)</description>
+      <description>Hajoon Song visited MIT again from July 15th to August 20th, 2019, as a visiting professor. He continued to collaborate with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.
+(photo from MIT news)</description>
     </item>
+    
     <item>
       <title>27th IUGG General Assembly</title>
       <link>https://airsea.yonsei.ac.kr/news/IUGG/</link>
       <pubDate>Tue, 23 Jul 2019 22:10:57 -0400</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/IUGG/</guid>
-      <description>27th IUGG General Assembly Hajoon chaired the session &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;quot; in the 27th IUGG General Assembly (7/8 - 7/18, 2019) in Montreal, Canada. In this session, he also gave a poster presentation about the recently published work on the near-inertial waves and carbon dioxide exchange between the air and sea.&#xA;The poster can be downloaded from this link</description>
+      <description>27th IUGG General Assembly Hajoon chaired the session &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;quot; in the 27th IUGG General Assembly (7/8 - 7/18, 2019) in Montreal, Canada. In this session, he also gave a poster presentation about the recently published work on the near-inertial waves and carbon dioxide exchange between the air and sea.
+The poster can be downloaded from this link</description>
     </item>
+    
     <item>
       <title>MIT visit</title>
       <link>https://airsea.yonsei.ac.kr/news/MITvisit_feb/</link>
       <pubDate>Thu, 07 Mar 2019 08:59:30 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/MITvisit_feb/</guid>
-      <description>Hajoon Song visited MIT from February 6th to February 20th, 2019, as a visiting professor. As in last summer, he collaborated with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.&#xA;Using the state-of-art ocean circulation model, we tried to explain the salinity maximum in the subsurface of Arabian Sea observed in situ measurements and autonomous floats, Argo.&#xA;He was told that this winter has been mild until a very cold air mass covered the area one week before he visited.</description>
+      <description>Hajoon Song visited MIT from February 6th to February 20th, 2019, as a visiting professor. As in last summer, he collaborated with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.
+Using the state-of-art ocean circulation model, we tried to explain the salinity maximum in the subsurface of Arabian Sea observed in situ measurements and autonomous floats, Argo.
+He was told that this winter has been mild until a very cold air mass covered the area one week before he visited.</description>
     </item>
+    
     <item>
       <title>MIT visit</title>
       <link>https://airsea.yonsei.ac.kr/news/MITvisit/</link>
       <pubDate>Tue, 04 Sep 2018 17:44:46 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/MITvisit/</guid>
       <description>Hajoon Song visited MIT from July 1st to August 24th, 2018, as a visiting professor. During the stay, he contributes to the project of the simulation of the Gulf of Arabia using a very high-resolution numerical ocean model with Professor John Marshall and Dr. MaryamRashed Alshehhi. His role involved the launch of the ocean model, analyze and diagnose the model results, and visualize the simulation. Another project he was involved with was the diagnosing the simulation of Arctic with the interest of the heat transport from the Atlantic Ocean to the Arctic.</description>
     </item>
+    
   </channel>
 </rss>

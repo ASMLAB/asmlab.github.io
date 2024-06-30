@@ -4,16 +4,17 @@
     <title>KHOA on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/KHOA/</link>
     <description>Recent content in KHOA on ASML-Yonsei</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/KHOA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Nov 2018 23:58:04 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/KHOA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workshop at KHOA</title>
       <link>https://airsea.yonsei.ac.kr/news/khoa/</link>
       <pubDate>Sat, 10 Nov 2018 23:58:04 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/khoa/</guid>
       <description>Korea Hydrographic and Oceanographic Agency Hajoon attended the workshop on the future plan to utilize the observation from Ocean Research Stations around the Korean Peninsula. He presented how valuable biogeochemical measurements from these sites for the estimation of the biogeochemical ocean states using data assimilation.</description>
     </item>
+    
   </channel>
 </rss>
