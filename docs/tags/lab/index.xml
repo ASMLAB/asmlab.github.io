@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lab on ASML-Yonsei</title>
+    <title>lab on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/lab/</link>
-    <description>Recent content in Lab on ASML-Yonsei</description>
-    <generator>Hugo</generator>
+    <description>Recent content in lab on ASML-Yonsei</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/lab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2020 16:01:04 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renovation</title>
       <link>https://airsea.yonsei.ac.kr/news/renovation/</link>
       <pubDate>Sun, 30 Aug 2020 16:01:04 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/renovation/</guid>
-      <description>The laboratory room was significantly renovated! The floor has been an issue in the last couple of years; an uneven surface with holes and duct tapes was not safe and made it difficult to put the desks and chairs. So first we leveled the floor (basically ground the stone) and put tiles on it. The job was well done and the room looked new!&#xA;We also replaced old desks that have been sitting here long before I joined.</description>
+      <description>The laboratory room was significantly renovated! The floor has been an issue in the last couple of years; an uneven surface with holes and duct tapes was not safe and made it difficult to put the desks and chairs. So first we leveled the floor (basically ground the stone) and put tiles on it. The job was well done and the room looked new!
+We also replaced old desks that have been sitting here long before I joined.</description>
     </item>
+    
   </channel>
 </rss>

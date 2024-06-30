@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Assimilation on ASML-Yonsei</title>
+    <title>data assimilation on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/data-assimilation/</link>
-    <description>Recent content in Data Assimilation on ASML-Yonsei</description>
-    <generator>Hugo</generator>
+    <description>Recent content in data assimilation on ASML-Yonsei</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Mar 2018 07:49:59 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>State estimation</title>
       <link>https://airsea.yonsei.ac.kr/research/dataassimilation/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/research/dataassimilation/</guid>
-      <description>California Current System The California Current System is located at the east of the north Pacific. Equatorward upwelling favorable wind draws nutrient-rich water from the interior to the surface making ocean very productive. In fact, approximately 35% of wild-caught fish come from here (Kudela et al., 2009). I investigated the interaction between wind, upwelling and marine ecosystem using ocean circulation model.&#xA;Upwelling source waters Along the California coast, equatorward wind transports water to offshore, creating divergence and upwelling at the coast.</description>
+      <description>California Current System The California Current System is located at the east of the north Pacific. Equatorward upwelling favorable wind draws nutrient-rich water from the interior to the surface making ocean very productive. In fact, approximately 35% of wild-caught fish come from here (Kudela et al., 2009). I investigated the interaction between wind, upwelling and marine ecosystem using ocean circulation model.
+Upwelling source waters Along the California coast, equatorward wind transports water to offshore, creating divergence and upwelling at the coast.</description>
     </item>
+    
   </channel>
 </rss>
