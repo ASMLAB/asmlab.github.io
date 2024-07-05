@@ -22,3 +22,6 @@ weight: 3
 #### Education
 + **M.S.** (2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.S.** (2019) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
+
+#### Awards
++ (2024.06) Best Student Poster(OS Section), AOGS 2024

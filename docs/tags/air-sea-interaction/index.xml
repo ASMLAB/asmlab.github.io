@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>air-sea interaction on ASML-Yonsei</title>
+    <title>Air-Sea Interaction on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/air-sea-interaction/</link>
-    <description>Recent content in air-sea interaction on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Air-Sea Interaction on ASML-Yonsei</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Mar 2018 07:49:59 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/air-sea-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 01:18:02 +0900</lastBuildDate>
+    <atom:link href="https://airsea.yonsei.ac.kr/tags/air-sea-interaction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Air-sea Interaction</title>
       <link>https://airsea.yonsei.ac.kr/research/airseacouple/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
-      
       <guid>https://airsea.yonsei.ac.kr/research/airseacouple/</guid>
-      <description>Air-sea interactions We are investigating air-sea couplings to understand the climate system in both large- and meso-scale processes. For the research, we are using a coupled atmosphere-ocean model with biogeochemical module and explore the physical processes and their impact on biogeochemical processes including the carbon cycle.
-Air-sea CO2 exchange While investigating the role of mesoscale eddies using both observations and numerical models, we find quite complicated, yet very interesting impacts of eddies in the Southern Ocean.</description>
+      <description>Air-sea interactions We are investigating air-sea couplings to understand the climate system in both large- and meso-scale processes. For the research, we are using a coupled atmosphere-ocean model with biogeochemical module and explore the physical processes and their impact on biogeochemical processes including the carbon cycle.&#xA;Air-sea CO2 exchange While investigating the role of mesoscale eddies using both observations and numerical models, we find quite complicated, yet very interesting impacts of eddies in the Southern Ocean.</description>
     </item>
-    
   </channel>
 </rss>

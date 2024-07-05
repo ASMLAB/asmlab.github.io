@@ -4,17 +4,16 @@
     <title>OSM on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/OSM/</link>
     <description>Recent content in OSM on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Feb 2024 17:41:18 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/OSM/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Mar 2024 17:51:46 +0900</lastBuildDate>
+    <atom:link href="https://airsea.yonsei.ac.kr/tags/OSM/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ocean Sciences Meeting, 2024</title>
       <link>https://airsea.yonsei.ac.kr/news/osm2024/</link>
       <pubDate>Sat, 24 Feb 2024 17:41:18 +0900</pubDate>
-      
       <guid>https://airsea.yonsei.ac.kr/news/osm2024/</guid>
       <description>2024.02.18~02.23에 미국 뉴올리언스에서 Ocean Sciences Meeting, 2024가 개최되었습니다. Air-Sea Modeling Lab에서 송하준 교수님과 윤정희 박사님, 그리고 조아진 연구원이 참석하였습니다.</description>
     </item>
-    
   </channel>
 </rss>

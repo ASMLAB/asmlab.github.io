@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>publication on ASML-Yonsei</title>
+    <title>Publication on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/publication/</link>
-    <description>Recent content in publication on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Publication on ASML-Yonsei</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 May 2018 07:49:59 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
+    <atom:link href="https://airsea.yonsei.ac.kr/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New paper</title>
       <link>https://airsea.yonsei.ac.kr/news/paper1/</link>
       <pubDate>Thu, 17 May 2018 07:49:59 +0900</pubDate>
-      
       <guid>https://airsea.yonsei.ac.kr/news/paper1/</guid>
       <description>The Southern Ocean leaving the footprints on the chlorophyll Phytoplankton in the ocean contains chlorophyll in their body which absorbs CO2 and emits O2 during photosynthesis. Thus the amount of chlorophyll plays an important role in air-sea CO2 flux. The growth of phytoplankton depends on mainly two factors, light, and nutrient (iron in the Southern Ocean) which phytoplankton takes up as its food. The light provided to phytoplankton is abundant in summer, deficient in winter.</description>
     </item>
-    
   </channel>
 </rss>

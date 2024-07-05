@@ -4,17 +4,15 @@
     <title>Events on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/events/</link>
     <description>Recent content in Events on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://airsea.yonsei.ac.kr/events/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://airsea.yonsei.ac.kr/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The 17th Korea-Japan Joint Seminar on Ocean Sciences</title>
       <link>https://airsea.yonsei.ac.kr/events/KJ2023/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:01 +0900</pubDate>
-      
       <guid>https://airsea.yonsei.ac.kr/events/KJ2023/</guid>
-      <description>The 17th Korea-Japan Joint Seminar on Ocean Sciences were held after three years of break because of the pandenmic.
-Detailed information Date : April 3-4, 2023 Venue : Lah Jeh Kun Hall (B147), the Commons (Baekyangro Underground), Yonsei University Local Organizing Committee : Hajoon Song, Yign Noh, Yeonju Choi Sponsor : Yonsei University, National Research Foundation of Korea Abstract Get the abstract book from here</description>
+      <description>The 17th Korea-Japan Joint Seminar on Ocean Sciences were held after three years of break because of the pandenmic.&#xA;Detailed information Date : April 3-4, 2023 Venue : Lah Jeh Kun Hall (B147), the Commons (Baekyangro Underground), Yonsei University Local Organizing Committee : Hajoon Song, Yign Noh, Yeonju Choi Sponsor : Yonsei University, National Research Foundation of Korea Abstract Get the abstract book from here</description>
     </item>
-    
   </channel>
 </rss>

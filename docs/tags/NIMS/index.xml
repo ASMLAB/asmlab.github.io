@@ -4,17 +4,16 @@
     <title>NIMS on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/NIMS/</link>
     <description>Recent content in NIMS on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Oct 2018 23:03:07 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/NIMS/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
+    <atom:link href="https://airsea.yonsei.ac.kr/tags/NIMS/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seminar at NIMS</title>
       <link>https://airsea.yonsei.ac.kr/news/seminar_nims/</link>
       <pubDate>Wed, 17 Oct 2018 23:03:07 +0900</pubDate>
-      
       <guid>https://airsea.yonsei.ac.kr/news/seminar_nims/</guid>
       <description>A Visit to National Institute of Meteorological Sciences Hajoon visited National Institute of Meteorological Sciences in Seoguipo, Jeju Island, and gave a talk with the title of global and regional physical ocean data assimilation and a strongly coupled data assimilation.</description>
     </item>
-    
   </channel>
 </rss>

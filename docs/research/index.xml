@@ -4,36 +4,29 @@
     <title>Research in ASML on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/research/</link>
     <description>Recent content in Research in ASML on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://airsea.yonsei.ac.kr/research/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://airsea.yonsei.ac.kr/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Air-sea Interaction</title>
       <link>https://airsea.yonsei.ac.kr/research/airseacouple/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
-      
       <guid>https://airsea.yonsei.ac.kr/research/airseacouple/</guid>
-      <description>Air-sea interactions We are investigating air-sea couplings to understand the climate system in both large- and meso-scale processes. For the research, we are using a coupled atmosphere-ocean model with biogeochemical module and explore the physical processes and their impact on biogeochemical processes including the carbon cycle.
-Air-sea CO2 exchange While investigating the role of mesoscale eddies using both observations and numerical models, we find quite complicated, yet very interesting impacts of eddies in the Southern Ocean.</description>
+      <description>Air-sea interactions We are investigating air-sea couplings to understand the climate system in both large- and meso-scale processes. For the research, we are using a coupled atmosphere-ocean model with biogeochemical module and explore the physical processes and their impact on biogeochemical processes including the carbon cycle.&#xA;Air-sea CO2 exchange While investigating the role of mesoscale eddies using both observations and numerical models, we find quite complicated, yet very interesting impacts of eddies in the Southern Ocean.</description>
     </item>
-    
     <item>
       <title>Ocean Circulation</title>
       <link>https://airsea.yonsei.ac.kr/research/southernocean/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
-      
       <guid>https://airsea.yonsei.ac.kr/research/southernocean/</guid>
       <description>Southern Ocean The Southern Ocean is unique. Consistent eastward wind results in upwelling of the water from the interior of the ocean, providing a passage for the exchange between the atmosphere and deep ocean. Unlike other major ocean basins, it does not have boundaries so that water circulates all around Antarctica. This wind-driven current is called Antarctic Circumpolar Current (ACC) and flows eastward connecting Atlantic, Pacific and Indian Oceans. The Southern Ocean plays an important role in earth&amp;rsquo;s climate.</description>
     </item>
-    
     <item>
       <title>State estimation</title>
       <link>https://airsea.yonsei.ac.kr/research/dataassimilation/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
-      
       <guid>https://airsea.yonsei.ac.kr/research/dataassimilation/</guid>
-      <description>California Current System The California Current System is located at the east of the north Pacific. Equatorward upwelling favorable wind draws nutrient-rich water from the interior to the surface making ocean very productive. In fact, approximately 35% of wild-caught fish come from here (Kudela et al., 2009). I investigated the interaction between wind, upwelling and marine ecosystem using ocean circulation model.
-Upwelling source waters Along the California coast, equatorward wind transports water to offshore, creating divergence and upwelling at the coast.</description>
+      <description>California Current System The California Current System is located at the east of the north Pacific. Equatorward upwelling favorable wind draws nutrient-rich water from the interior to the surface making ocean very productive. In fact, approximately 35% of wild-caught fish come from here (Kudela et al., 2009). I investigated the interaction between wind, upwelling and marine ecosystem using ocean circulation model.&#xA;Upwelling source waters Along the California coast, equatorward wind transports water to offshore, creating divergence and upwelling at the coast.</description>
     </item>
-    
   </channel>
 </rss>
