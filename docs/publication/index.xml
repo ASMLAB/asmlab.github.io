@@ -4,8 +4,7 @@
     <title>Publication on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/publication/</link>
     <description>Recent content in Publication on ASML-Yonsei</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://airsea.yonsei.ac.kr/publication/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://airsea.yonsei.ac.kr/publication/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
