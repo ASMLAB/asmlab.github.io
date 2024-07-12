@@ -1,61 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Seminar on ASML-Yonsei</title>
+    <title>seminar on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/seminar/</link>
-    <description>Recent content in Seminar on ASML-Yonsei</description>
-    <generator>Hugo</generator>
+    <description>Recent content in seminar on ASML-Yonsei</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Feb 2023 18:15:15 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2019 18:21:46 -0400</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seminar at Hanyang University</title>
       <link>https://airsea.yonsei.ac.kr/news/hanyang/</link>
       <pubDate>Wed, 29 May 2019 18:21:46 -0400</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/hanyang/</guid>
       <description>한양대학교 해양융합과학기술 인재양성팀 초청세미나 Hajoon gave a talk with the title &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;quot; at Hanyang University</description>
     </item>
+    
     <item>
       <title>SEES Colloquium</title>
       <link>https://airsea.yonsei.ac.kr/news/SEES/</link>
       <pubDate>Wed, 22 May 2019 23:57:16 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/SEES/</guid>
       <description>SEES Colloquium at Seoul National University Hajoon gave a talk in the SEES Colloquium with the title of &amp;ldquo;The ocean circulation and its impact on the air-sea CO2 exchange&amp;rdquo;. He introduced the offline experiments with carbon cycle and emphasized that near-inertial waves can give a significant influence on the CO2 flux through vertical mixing.</description>
     </item>
+    
     <item>
       <title>Seminar at Ewha Womans University</title>
       <link>https://airsea.yonsei.ac.kr/news/ewha/</link>
       <pubDate>Wed, 21 Nov 2018 23:57:16 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/ewha/</guid>
-      <description>The Colloquium at the Dept. of Climate and Energy Systems Engineering&#xA;Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (http://home.ewha.ac.kr/cyoo/seminar.html). In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.&#xA;Link (Korean) </description>
+      <description>The Colloquium at the Dept. of Climate and Energy Systems Engineering
+Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (http://home.ewha.ac.kr/cyoo/seminar.html). In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.
+Link (Korean) </description>
     </item>
+    
     <item>
       <title>Seminar at Ewha Womans University</title>
       <link>https://airsea.yonsei.ac.kr/news/ewha_2018/</link>
       <pubDate>Wed, 21 Nov 2018 23:57:16 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/ewha_2018/</guid>
-      <description>The Colloquium at the Dept. of Climate and Energy Systems Engineering&#xA;Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (http://home.ewha.ac.kr/cyoo/seminar.html). In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.&#xA;Link (Korean) </description>
+      <description>The Colloquium at the Dept. of Climate and Energy Systems Engineering
+Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (http://home.ewha.ac.kr/cyoo/seminar.html). In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.
+Link (Korean) </description>
     </item>
+    
     <item>
       <title>Seminar at KOPRI</title>
       <link>https://airsea.yonsei.ac.kr/news/seminar_kopri/</link>
       <pubDate>Fri, 19 Oct 2018 23:03:07 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/seminar_kopri/</guid>
       <description>A Visit to Korea Polar Research Institute Hajoon was invited to the EGG seminar at Korea Polar Research Institute in Incheon. The talk was titled &amp;ldquo;Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current&amp;rdquo; and discussed the impact of mesoscale mixed layer depth modulation on chlorophyll along the Antarctic Circumpolar Current in the Southern Ocean.</description>
     </item>
+    
     <item>
       <title>Seminar at NIMS</title>
       <link>https://airsea.yonsei.ac.kr/news/seminar_nims/</link>
       <pubDate>Wed, 17 Oct 2018 23:03:07 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/seminar_nims/</guid>
       <description>A Visit to National Institute of Meteorological Sciences Hajoon visited National Institute of Meteorological Sciences in Seoguipo, Jeju Island, and gave a talk with the title of global and regional physical ocean data assimilation and a strongly coupled data assimilation.</description>
     </item>
+    
     <item>
       <title>Seminar at Korea Meteorological Administration</title>
       <link>https://airsea.yonsei.ac.kr/news/seminar_kma/</link>
       <pubDate>Fri, 12 Oct 2018 22:57:55 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/news/seminar_kma/</guid>
       <description>A Visit to Korea Meteorological Administration Hajoon visited Korea Meteorological Administration and gave a talk about the analysis and application of the ocean model.</description>
     </item>
+    
   </channel>
 </rss>

@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Southern Ocean on ASML-Yonsei</title>
+    <title>southern ocean on ASML-Yonsei</title>
     <link>https://airsea.yonsei.ac.kr/tags/southern-ocean/</link>
-    <description>Recent content in Southern Ocean on ASML-Yonsei</description>
-    <generator>Hugo</generator>
+    <description>Recent content in southern ocean on ASML-Yonsei</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/southern-ocean/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Mar 2018 07:49:59 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/southern-ocean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ocean Circulation</title>
       <link>https://airsea.yonsei.ac.kr/research/southernocean/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
+      
       <guid>https://airsea.yonsei.ac.kr/research/southernocean/</guid>
       <description>Southern Ocean The Southern Ocean is unique. Consistent eastward wind results in upwelling of the water from the interior of the ocean, providing a passage for the exchange between the atmosphere and deep ocean. Unlike other major ocean basins, it does not have boundaries so that water circulates all around Antarctica. This wind-driven current is called Antarctic Circumpolar Current (ACC) and flows eastward connecting Atlantic, Pacific and Indian Oceans. The Southern Ocean plays an important role in earth&amp;rsquo;s climate.</description>
     </item>
+    
   </channel>
 </rss>
