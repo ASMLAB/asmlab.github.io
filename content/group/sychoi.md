@@ -3,7 +3,7 @@ title: "SeungYeon Choi"
 nickname: "sy3303"
 date: "2022-04-11T13:39:46+02:00"
 image: "images/group/sy3303.jpeg"
-category: "Undergraduate Researcher"
+category: "Researcher"
 information:
   - label: "Title"
     info: "Undergraduate Intern"
