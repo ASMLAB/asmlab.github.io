@@ -76,7 +76,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
       <td style="min-width:100px"></td>
       <td>Sanghyun Kim</td>
       <td>2018</td>
-      <td></td>
+      <td>Currently: Graduate student in Computational Science and Engineering at Yonsei University</td>
     </tr>
     <!--tr>
       <td style="min-width:100px"></td>
