@@ -48,6 +48,36 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
       <td>Master<br>(2021 - 2023)</td>
       <td>Currently: Graduate student at University of Colorado, Boulder</td>
     </tr>
+    <tr>
+      <td style="min-width:100px"></td>
+      <td>Chohyun Lee</td>
+      <td>2020-2022</td>
+      <td>Currently: Korea Polar Research Institute (KOPRI)</td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
+      <td>Jiwoo Choi</td>
+      <td>2018-2021</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
+      <td>Chunil Namgung</td>
+      <td>2018-2020</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
+      <td>Suji Gwak</td>
+      <td>2019</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
+      <td>Sanghyun Kim</td>
+      <td>2018</td>
+      <td>Currently: Graduate student in Computational Science and Engineering at Yonsei University</td>
+    </tr>
     <!--tr>
       <td style="min-width:100px"></td>
       <td>Chohyun Lee</td>
