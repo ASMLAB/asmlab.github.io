@@ -8,7 +8,7 @@ weight: 3
 
 ### Peer-reviewed paper
 --------------
-{{< expand  "An, S. I., Moon, J. Y., Dijkstra, H. A., Yang, Y. M., & Song, H. (2024). Antarctic meltwater reduces the Atlantic meridional overturning circulation through oceanic freshwater transport and atmospheric teleconnections. Communications Earth & Environment, 5(1), 490. https://doi.org/10.1038/s43247-024-01670-7" >}}
+{{< expand  "An, S.-I., Moon, J.-Y., Dijkstra, H. A., Yang, Y.-M., & Song, H. (2024). Antarctic meltwater reduces the Atlantic meridional overturning circulation through oceanic freshwater transport and atmospheric teleconnections. Communications Earth & Environment, 5(1), 490. https://doi.org/10.1038/s43247-024-01670-7" >}}
 #### Abstract
 The Atlantic meridional overturning circulation is an important component of the climate system because of its role in the heat transport. Its strength is sensitive to the surface density but mechanisms of the effect of Southern Ocean freshwater anomalies are relatively unknown. Here, we investigate the impact of Antarctic ice sheet meltwater on the Atlantic meridional overturning circulation using an earth system model of intermediate complexity. The meltwater over the Pacific sector of the Southern Ocean is transported to the east and, after passing the Drake Passage, travels northward reaching the North Atlantic. Furthermore, Southern Ocean cooling induces a northward shift of the Intertropical Convergence Zone, leading to more precipitation in the tropical Atlantic. Consequently, the reduced salinity weakens the Atlantic meridional overturning circulation. Additional experiments, in which the duration period of freshwater hosing was varied while keeping its total amount constant, indicate that the amplitude and the duration of the meltwater play crucial roles in determining the degree of reduction in Atlantic meridional overturning circulation.
 {{< /expand >}}
@@ -169,4 +169,31 @@ We diagnose the ocean’s residual overturning circulation of the Arabian Gulf i
 <br>
 
 ### Manuscripts under review
+{{< expand  "Lee, C., H. Song, Y. Choi, A. Cho and J. Marshall, Observed multi-decadal increase in the surface ocean's thermal inertia, Nature Climate Change, *sub judice*" >}}
+{{< /expand >}}
+
+{{< expand  "Song, H. and Y. Choi, E.W. Doddridge and J. Marshall, The Responses of Antarctic sea ice and overturning cells to meridional wind forcing, Journal of Climate, *sub judice*" >}}
+{{< /expand >}}
+
+{{< expand  "Cho, A., H. Song, H. Seo, R. Sun, M.R. Mazloff, A.C. Subramanian, B.D. Cornuelle and A.J. Miller, Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System, Ocean Modelling, *sub judice*" >}}
+{{< /expand >}}
+
+{{< expand  "Kim, Y., H. Song, K. Han, S.-I. Ah, Y.-G. Park, J. Marshall, Residual overturning circulation and associated water-mass transformation in the East/Japan Sea, Journal of Physical Oceanography, *sub judice*" >}}
+{{< /expand >}}
+
+{{< expand  "Kwak, K., H. Song, N. Yeo, E.-C. Chang, M.-S. Koo, E. Lee and J. Park, Improved subseasonal prediction of Atmospheric Energy Transport over the Northwest Pacific using an atmosphere-ocean coupled model. Monthly Weather Review, *sub judice*" >}}
+{{< /expand >}}
+
+{{< expand  "Subeesh, M.P., H. Song, Y. Addad, J.R. Scott, J. Marshall and M.R. Al Shehhi, Seasonality of internal tides in the Strait of Hormuz: observations and modelling, Journal of Geophysical Research: Oceans, *sub judice*" >}}
+{{< /expand >}}
+
+{{< expand  "Noh, Y., H.J. Seunu, H. Song and Y. Choi, Mixing of top-down and bottom-up diffusing reactive tracers within the ocean mixed layer and its application to autumn phytoplankton blooms. Journal of Geophysical Research: Oceans, *sub judice*" >}}
+{{< /expand >}}
+
+{{< expand  "Zhan, P., Z. Yan, A. Karumuri, D. Guo, G. Krokos, H. Song and I. Hoteit, Beyond Steady Warming in Marginal Seas: Unraveling AMO’s Role in Driving Arabian Gulf Temperature Oscillations. Geophysical Research Letters, *sub judice*" >}}
+{{< /expand >}}
+
+{{< expand  "Al Shehhi, M.R., H. Song, J. Scott, F. A. Gafoor and J. Marshall, Impact of Desalination on the General Circulation of the Arabian Gulf: Present and Future Scenarios, Marine Pollution Bulletin, *sub judice*" >}}
+{{< /expand >}}
+
 ------------
