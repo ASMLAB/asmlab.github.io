@@ -193,6 +193,7 @@ We diagnose the ocean’s residual overturning circulation of the Arabian Gulf i
 {{< expand  "Zhan, P., Z. Yan, A. Karumuri, D. Guo, G. Krokos, H. Song and I. Hoteit, Beyond Steady Warming in Marginal Seas: Unraveling AMO’s Role in Driving Arabian Gulf Temperature Oscillations. Geophysical Research Letters, *sub judice*" >}}
 {{< /expand >}}
 
-{{< expand  "Al Shehhi, M.R., H. Song, J. Scott, F. Abdul Gafoor and J. Marshall, Impact of Desalination on the General Circulation of the Arabian Gulf: Present and Future Scenarios. Marine Pollution Bulletin, *sub judice*" >}}
+{{< expand  "Al Shehhi, M.R., H. Song, J. Scott, F. A. Gafoor and J. Marshall, Impact of Desalination on the General Circulation of the Arabian Gulf: Present and Future Scenarios, Marine Pollution Bulletin, *sub judice*" >}}
 {{< /expand >}}
+
 ------------
