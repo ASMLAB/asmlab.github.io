@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MIT on ASML-YONSEI</title>
-    <link>https://airsea.yonsei.ac.kr/tags/MIT/</link>
+    <link>http://localhost:1313/tags/MIT/</link>
     <description>Recent content in MIT on ASML-YONSEI</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/MIT/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/MIT/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIT visit</title>
-      <link>https://airsea.yonsei.ac.kr/news/MITvisit_2019/</link>
+      <link>http://localhost:1313/news/MITvisit_2019/</link>
       <pubDate>Thu, 29 Aug 2019 08:57:48 +0900</pubDate>
-      <guid>https://airsea.yonsei.ac.kr/news/MITvisit_2019/</guid>
-      <description>&lt;p&gt;Hajoon Song visited MIT again from July 15th to August 20th, 2019, as a visiting professor.&#xA;He continued to collaborate with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.&lt;/p&gt;&#xA;&lt;p&gt;(photo from &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2016/MIT-2016-Campus-Aerial-01_0.jpg?itok=QyJZZZwc&#34;&#xA;&gt;MIT news&lt;/a&gt;)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/MITvisit_2019/</guid>
+      <description>Hajoon Song visited MIT again from July 15th to August 20th, 2019, as a visiting professor. He continued to collaborate with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.&#xA;(photo from MIT news)</description>
     </item>
     <item>
       <title>MIT visit</title>
-      <link>https://airsea.yonsei.ac.kr/news/MITvisit_feb/</link>
+      <link>http://localhost:1313/news/MITvisit_feb/</link>
       <pubDate>Thu, 07 Mar 2019 08:59:30 +0900</pubDate>
-      <guid>https://airsea.yonsei.ac.kr/news/MITvisit_feb/</guid>
-      <description>&lt;br&gt;&#xA;&lt;p&gt;Hajoon Song visited MIT from February 6th to February 20th, 2019, as a visiting professor.&#xA;As in last summer, he collaborated with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.&lt;/p&gt;&#xA;&lt;p&gt;Using the state-of-art ocean circulation model, we tried to explain the salinity maximum in the subsurface of Arabian Sea observed in situ measurements and autonomous floats, Argo.&lt;/p&gt;&#xA;&lt;p&gt;He was told that this winter has been mild until a very cold air mass covered the area one week before he visited.&#xA;Even though it snowed during his stay, the weather became warm again.&#xA;On the Charles River, there were numerous &amp;ldquo;pancakes&amp;rdquo; of ice, telling that the winter was ready to retreat.&#xA;BUT don&amp;rsquo;t be off guard. You never know when winter revisits until April (from his experience).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/MITvisit_feb/</guid>
+      <description>Hajoon Song visited MIT from February 6th to February 20th, 2019, as a visiting professor. As in last summer, he collaborated with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.&#xA;Using the state-of-art ocean circulation model, we tried to explain the salinity maximum in the subsurface of Arabian Sea observed in situ measurements and autonomous floats, Argo.&#xA;He was told that this winter has been mild until a very cold air mass covered the area one week before he visited.</description>
     </item>
     <item>
       <title>MIT visit</title>
-      <link>https://airsea.yonsei.ac.kr/news/MITvisit/</link>
+      <link>http://localhost:1313/news/MITvisit/</link>
       <pubDate>Tue, 04 Sep 2018 17:44:46 +0900</pubDate>
-      <guid>https://airsea.yonsei.ac.kr/news/MITvisit/</guid>
-      <description>&lt;br&gt;&#xA;Hajoon Song visited MIT from July 1st to August 24th, 2018, as a visiting professor.&#xA;During the stay, he contributes to the project of the simulation of the Gulf of Arabia using a very high-resolution numerical ocean model with Professor John Marshall and Dr. MaryamRashed Alshehhi.&#xA;His role involved the launch of the ocean model, analyze and diagnose the model results, and visualize the simulation.&#xA;Another project he was involved with was the diagnosing the simulation of Arctic with&#xA;the interest of the heat transport from the Atlantic Ocean to the Arctic. This research will use the tool called “layers package”, and his research experience in this played a significant role.</description>
+      <guid>http://localhost:1313/news/MITvisit/</guid>
+      <description>Hajoon Song visited MIT from July 1st to August 24th, 2018, as a visiting professor. During the stay, he contributes to the project of the simulation of the Gulf of Arabia using a very high-resolution numerical ocean model with Professor John Marshall and Dr. MaryamRashed Alshehhi. His role involved the launch of the ocean model, analyze and diagnose the model results, and visualize the simulation. Another project he was involved with was the diagnosing the simulation of Arctic with the interest of the heat transport from the Atlantic Ocean to the Arctic.</description>
     </item>
   </channel>
 </rss>

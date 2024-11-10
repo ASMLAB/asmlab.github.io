@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EGU on ASML-YONSEI</title>
-    <link>https://airsea.yonsei.ac.kr/tags/EGU/</link>
+    <link>http://localhost:1313/tags/EGU/</link>
     <description>Recent content in EGU on ASML-YONSEI</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/EGU/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/EGU/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talk at 2019 EGU General assembly</title>
-      <link>https://airsea.yonsei.ac.kr/news/EGU/</link>
+      <link>http://localhost:1313/news/EGU/</link>
       <pubDate>Fri, 12 Apr 2019 23:57:16 +0900</pubDate>
-      <guid>https://airsea.yonsei.ac.kr/news/EGU/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;2019-egu-general-assembly&#34;&#xA;    &gt;&#xA;        2019 EGU General Assembly&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://airsea.yonsei.ac.kr/news/EGU/#2019-egu-general-assembly&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 2019 EGU General Assembly&#34; aria-label=&#34;Anchor to: 2019 EGU General Assembly&#34; href=&#34;#2019-egu-general-assembly&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Hajoon attended 2019 EGU General Assembly and gave a talk titled with &amp;ldquo;Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current&amp;rdquo; in the session &amp;ldquo;The Southern Ocean in a changing climate: from ice shelves to open ocean&amp;rdquo;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/EGU/</guid>
+      <description>2019 EGU General Assembly Hajoon attended 2019 EGU General Assembly and gave a talk titled with &amp;ldquo;Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current&amp;rdquo; in the session &amp;ldquo;The Southern Ocean in a changing climate: from ice shelves to open ocean&amp;rdquo;&#xA;This talk presented his paper appeared on GRL, so the detailed information about this talk can be found here.</description>
     </item>
   </channel>
 </rss>
