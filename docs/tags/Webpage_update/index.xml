@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webpage_update on ASML-Yonsei</title>
-    <link>https://airsea.yonsei.ac.kr/tags/Webpage_update/</link>
-    <description>Recent content in Webpage_update on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Webpage_update on ASML-YONSEI</title>
+    <link>http://localhost:1313/tags/Webpage_update/</link>
+    <description>Recent content in Webpage_update on ASML-YONSEI</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2020 17:50:11 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/Webpage_update/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/Webpage_update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Webpage_update</title>
-      <link>https://airsea.yonsei.ac.kr/news/webpage_update/</link>
+      <link>http://localhost:1313/news/webpage_update/</link>
       <pubDate>Wed, 13 May 2020 17:50:11 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/webpage_update/</guid>
-      <description>We made a major update of the lab webpage so that the pagination works well for the &amp;ldquo;News&amp;rdquo; section.
-It is built based on the theme called Airspace. Photos are mainly from NASA Goddard Flickr page, a vorticity field that Ryan Abernathey created using the MITgcm llc4320 simulation and other online places.
-Please let us know if there are things that do not work properly.</description>
+      <guid>http://localhost:1313/news/webpage_update/</guid>
+      <description>&lt;p&gt;We made a major update of the lab webpage so that the pagination works well for the &amp;ldquo;News&amp;rdquo; section.&lt;/p&gt;&#xA;&lt;p&gt;It is built based on the theme called &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;https://themes.gohugo.io/airspace-hugo/&#34;&#xA;&gt;Airspace&lt;/a&gt;.&#xA;Photos are mainly from &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;https://www.flickr.com/photos/gsfc/albums/72157690291920202&#34;&#xA;&gt;NASA Goddard Flickr page&lt;/a&gt;, &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://maps.actualscience.net/MITgcm_llc_maps/llc_4320/&#34;&#xA;&gt;a vorticity field that Ryan Abernathey created using the MITgcm llc4320 simulation&lt;/a&gt; and other online places.&lt;/p&gt;&#xA;&lt;p&gt;Please let us know if there are things that do not work properly.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

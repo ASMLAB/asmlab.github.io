@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PhD on ASML-Yonsei</title>
-    <link>https://airsea.yonsei.ac.kr/tags/PhD/</link>
-    <description>Recent content in PhD on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>PhD on ASML-YONSEI</title>
+    <link>http://localhost:1313/tags/PhD/</link>
+    <description>Recent content in PhD on ASML-YONSEI</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Nov 2019 09:02:29 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/PhD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/PhD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hiring</title>
-      <link>https://airsea.yonsei.ac.kr/news/hiring/</link>
+      <link>http://localhost:1313/news/hiring/</link>
       <pubDate>Wed, 27 Nov 2019 09:02:29 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/hiring/</guid>
-      <description>대기-해양 모델링 연구실에서 대학원생 연구원 및 학부 연구원을 모집합니다. 저희 연구실에서는 대기-해양 상호작용이 대기와 해양의 순환과 탄소교환에 미치는 영향에 대한 프로젝트를 수행하고 있습니다. 이 프로젝트에서 저희는 위성 및 무인관측값과 고해상도 수치모델을 이용하는 연구를 계획중이며, 함께 연구할 수 있는 연구원을 모집하고 있습니다.
-대학원생 연구원 대기-해양 접합모델을 이용하여 대기-해양 상호작용과 이와 밀접한 관련이 있는 현상, 그리고 탄소순 연구에 관심이 있어서 대학원 진학을 희망하는 분들을 찾습니다. 2020년 2학기부터 시작하실 수 있고, 그 전까지 이메일로 지원를 받습니다.</description>
+      <guid>http://localhost:1313/news/hiring/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;대기-해양-모델링-연구실에서-대학원생-연구원-및-학부-연구원을-모집합니다&#34;&#xA;    &gt;&#xA;        대기-해양 모델링 연구실에서 대학원생 연구원 및 학부 연구원을 모집합니다.&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/hiring/#대기-해양-모델링-연구실에서-대학원생-연구원-및-학부-연구원을-모집합니다&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 대기-해양 모델링 연구실에서 대학원생 연구원 및 학부 연구원을 모집합니다.&#34; aria-label=&#34;Anchor to: 대기-해양 모델링 연구실에서 대학원생 연구원 및 학부 연구원을 모집합니다.&#34; href=&#34;#%eb%8c%80%ea%b8%b0-%ed%95%b4%ec%96%91-%eb%aa%a8%eb%8d%b8%eb%a7%81-%ec%97%b0%ea%b5%ac%ec%8b%a4%ec%97%90%ec%84%9c-%eb%8c%80%ed%95%99%ec%9b%90%ec%83%9d-%ec%97%b0%ea%b5%ac%ec%9b%90-%eb%b0%8f-%ed%95%99%eb%b6%80-%ec%97%b0%ea%b5%ac%ec%9b%90%ec%9d%84-%eb%aa%a8%ec%a7%91%ed%95%a9%eb%8b%88%eb%8b%a4&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;저희 연구실에서는 대기-해양 상호작용이 대기와 해양의 순환과 탄소교환에 미치는 영향에 대한 프로젝트를 수행하고 있습니다.&#xA;이 프로젝트에서 저희는 위성 및 무인관측값과 고해상도 수치모델을 이용하는 연구를 계획중이며, 함께 연구할 수 있는 연구원을 모집하고 있습니다.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Canada on ASML-Yonsei</title>
-    <link>https://airsea.yonsei.ac.kr/tags/Canada/</link>
-    <description>Recent content in Canada on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Canada on ASML-YONSEI</title>
+    <link>http://localhost:1313/tags/Canada/</link>
+    <description>Recent content in Canada on ASML-YONSEI</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jul 2019 22:10:57 -0400</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/Canada/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/Canada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>27th IUGG General Assembly</title>
-      <link>https://airsea.yonsei.ac.kr/news/IUGG/</link>
+      <link>http://localhost:1313/news/IUGG/</link>
       <pubDate>Tue, 23 Jul 2019 22:10:57 -0400</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/IUGG/</guid>
-      <description>27th IUGG General Assembly Hajoon chaired the session &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;quot; in the 27th IUGG General Assembly (7/8 - 7/18, 2019) in Montreal, Canada. In this session, he also gave a poster presentation about the recently published work on the near-inertial waves and carbon dioxide exchange between the air and sea.
-The poster can be downloaded from this link</description>
+      <guid>http://localhost:1313/news/IUGG/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;27th-iugg-general-assembly&#34;&#xA;    &gt;&#xA;        27th IUGG General Assembly&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/IUGG/#27th-iugg-general-assembly&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 27th IUGG General Assembly&#34; aria-label=&#34;Anchor to: 27th IUGG General Assembly&#34; href=&#34;#27th-iugg-general-assembly&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon chaired the session &amp;ldquo;&lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://iugg2019montreal.com/p.html&#34;&#xA;&gt;The Southern Ocean where the ocean and atmosphere meet&lt;/a&gt;&#xA;&amp;quot; in &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://iugg2019montreal.com/&#34;&#xA;&gt;the 27th IUGG General Assembly&lt;/a&gt; (7/8 - 7/18, 2019) in Montreal, Canada.&#xA;In this session, he also gave a poster presentation about the recently published work on the near-inertial waves and carbon dioxide exchange between the air and sea.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

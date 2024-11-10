@@ -1,78 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>seminar on ASML-Yonsei</title>
-    <link>https://airsea.yonsei.ac.kr/tags/seminar/</link>
-    <description>Recent content in seminar on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Seminar on ASML-YONSEI</title>
+    <link>http://localhost:1313/tags/seminar/</link>
+    <description>Recent content in Seminar on ASML-YONSEI</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 May 2019 18:21:46 -0400</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 18:15:15 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seminar at Hanyang University</title>
-      <link>https://airsea.yonsei.ac.kr/news/hanyang/</link>
+      <link>http://localhost:1313/news/hanyang/</link>
       <pubDate>Wed, 29 May 2019 18:21:46 -0400</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/hanyang/</guid>
-      <description>한양대학교 해양융합과학기술 인재양성팀 초청세미나 Hajoon gave a talk with the title &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;quot; at Hanyang University</description>
+      <guid>http://localhost:1313/news/hanyang/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;한양대학교-해양융합과학기술-인재양성팀-초청세미나&#34;&#xA;    &gt;&#xA;        한양대학교 해양융합과학기술 인재양성팀 초청세미나&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/hanyang/#한양대학교-해양융합과학기술-인재양성팀-초청세미나&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 한양대학교 해양융합과학기술 인재양성팀 초청세미나&#34; aria-label=&#34;Anchor to: 한양대학교 해양융합과학기술 인재양성팀 초청세미나&#34; href=&#34;#%ed%95%9c%ec%96%91%eb%8c%80%ed%95%99%ea%b5%90-%ed%95%b4%ec%96%91%ec%9c%b5%ed%95%a9%ea%b3%bc%ed%95%99%ea%b8%b0%ec%88%a0-%ec%9d%b8%ec%9e%ac%ec%96%91%ec%84%b1%ed%8c%80-%ec%b4%88%ec%b2%ad%ec%84%b8%eb%af%b8%eb%82%98&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon gave a talk with the title &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet&#xA;&amp;quot; at Hanyang University&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SEES Colloquium</title>
-      <link>https://airsea.yonsei.ac.kr/news/SEES/</link>
+      <link>http://localhost:1313/news/SEES/</link>
       <pubDate>Wed, 22 May 2019 23:57:16 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/SEES/</guid>
-      <description>SEES Colloquium at Seoul National University Hajoon gave a talk in the SEES Colloquium with the title of &amp;ldquo;The ocean circulation and its impact on the air-sea CO2 exchange&amp;rdquo;. He introduced the offline experiments with carbon cycle and emphasized that near-inertial waves can give a significant influence on the CO2 flux through vertical mixing.</description>
+      <guid>http://localhost:1313/news/SEES/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h2 id=&#34;sees-colloquium-at-seoul-national-university&#34;&#xA;    &gt;&#xA;        SEES Colloquium at Seoul National University&#xA;    &lt;/h2&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/SEES/#sees-colloquium-at-seoul-national-university&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: SEES Colloquium at Seoul National University&#34; aria-label=&#34;Anchor to: SEES Colloquium at Seoul National University&#34; href=&#34;#sees-colloquium-at-seoul-national-university&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon gave a talk in the SEES Colloquium with the title of &amp;ldquo;The ocean circulation and its impact on the air-sea CO2 exchange&amp;rdquo;. He introduced the offline experiments with carbon cycle and emphasized that near-inertial waves can give a significant influence on the CO2 flux through vertical mixing.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Seminar at Ewha Womans University</title>
-      <link>https://airsea.yonsei.ac.kr/news/ewha/</link>
+      <link>http://localhost:1313/news/ewha/</link>
       <pubDate>Wed, 21 Nov 2018 23:57:16 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/ewha/</guid>
-      <description>The Colloquium at the Dept. of Climate and Energy Systems Engineering
-Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (http://home.ewha.ac.kr/cyoo/seminar.html). In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.
-Link (Korean) </description>
+      <guid>http://localhost:1313/news/ewha/</guid>
+      <description>&lt;p&gt;The Colloquium at the Dept. of Climate and Energy Systems Engineering&lt;/p&gt;&#xA;&lt;p&gt;Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (&lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://home.ewha.ac.kr/cyoo/seminar.html%29&#34;&#xA;&gt;http://home.ewha.ac.kr/cyoo/seminar.html)&lt;/a&gt;. In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://cms.ewha.ac.kr/user/boardList.action?command=view&amp;amp;page=1&amp;amp;boardId=6143459&amp;amp;boardSeq=20452561&amp;amp;year=2019&amp;amp;month=4&amp;amp;startDate=&amp;amp;endDate=&#34;&#xA;&gt;Link (Korean)&lt;/a&gt;&#xA;&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Seminar at Ewha Womans University</title>
-      <link>https://airsea.yonsei.ac.kr/news/ewha_2018/</link>
+      <link>http://localhost:1313/news/ewha_2018/</link>
       <pubDate>Wed, 21 Nov 2018 23:57:16 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/ewha_2018/</guid>
-      <description>The Colloquium at the Dept. of Climate and Energy Systems Engineering
-Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (http://home.ewha.ac.kr/cyoo/seminar.html). In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.
-Link (Korean) </description>
+      <guid>http://localhost:1313/news/ewha_2018/</guid>
+      <description>&lt;p&gt;The Colloquium at the Dept. of Climate and Energy Systems Engineering&lt;/p&gt;&#xA;&lt;p&gt;Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (&lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://home.ewha.ac.kr/cyoo/seminar.html%29&#34;&#xA;&gt;http://home.ewha.ac.kr/cyoo/seminar.html)&lt;/a&gt;. In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://cms.ewha.ac.kr/user/boardList.action?command=view&amp;amp;page=1&amp;amp;boardId=6143459&amp;amp;boardSeq=20452561&amp;amp;year=2019&amp;amp;month=4&amp;amp;startDate=&amp;amp;endDate=&#34;&#xA;&gt;Link (Korean)&lt;/a&gt;&#xA;&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Seminar at KOPRI</title>
-      <link>https://airsea.yonsei.ac.kr/news/seminar_kopri/</link>
+      <link>http://localhost:1313/news/seminar_kopri/</link>
       <pubDate>Fri, 19 Oct 2018 23:03:07 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/seminar_kopri/</guid>
-      <description>A Visit to Korea Polar Research Institute Hajoon was invited to the EGG seminar at Korea Polar Research Institute in Incheon. The talk was titled &amp;ldquo;Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current&amp;rdquo; and discussed the impact of mesoscale mixed layer depth modulation on chlorophyll along the Antarctic Circumpolar Current in the Southern Ocean.</description>
+      <guid>http://localhost:1313/news/seminar_kopri/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;a-visit-to-korea-polar-research-institute&#34;&#xA;    &gt;&#xA;        A Visit to Korea Polar Research Institute&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/seminar_kopri/#a-visit-to-korea-polar-research-institute&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: A Visit to Korea Polar Research Institute&#34; aria-label=&#34;Anchor to: A Visit to Korea Polar Research Institute&#34; href=&#34;#a-visit-to-korea-polar-research-institute&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon was invited to the EGG seminar at Korea Polar Research Institute in Incheon. The talk was titled &amp;ldquo;Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current&amp;rdquo; and discussed the impact of mesoscale mixed layer depth modulation on chlorophyll along the Antarctic Circumpolar Current in the Southern Ocean.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Seminar at NIMS</title>
-      <link>https://airsea.yonsei.ac.kr/news/seminar_nims/</link>
+      <link>http://localhost:1313/news/seminar_nims/</link>
       <pubDate>Wed, 17 Oct 2018 23:03:07 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/seminar_nims/</guid>
-      <description>A Visit to National Institute of Meteorological Sciences Hajoon visited National Institute of Meteorological Sciences in Seoguipo, Jeju Island, and gave a talk with the title of global and regional physical ocean data assimilation and a strongly coupled data assimilation.</description>
+      <guid>http://localhost:1313/news/seminar_nims/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;a-visit-to-national-institute-of-meteorological-sciences&#34;&#xA;    &gt;&#xA;        A Visit to National Institute of Meteorological Sciences&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/seminar_nims/#a-visit-to-national-institute-of-meteorological-sciences&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: A Visit to National Institute of Meteorological Sciences&#34; aria-label=&#34;Anchor to: A Visit to National Institute of Meteorological Sciences&#34; href=&#34;#a-visit-to-national-institute-of-meteorological-sciences&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon visited National Institute of Meteorological Sciences in Seoguipo, Jeju Island, and gave a talk with the title of global and regional physical ocean data assimilation and a strongly coupled data assimilation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Seminar at Korea Meteorological Administration</title>
-      <link>https://airsea.yonsei.ac.kr/news/seminar_kma/</link>
+      <link>http://localhost:1313/news/seminar_kma/</link>
       <pubDate>Fri, 12 Oct 2018 22:57:55 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/news/seminar_kma/</guid>
-      <description>A Visit to Korea Meteorological Administration Hajoon visited Korea Meteorological Administration and gave a talk about the analysis and application of the ocean model.</description>
+      <guid>http://localhost:1313/news/seminar_kma/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;a-visit-to-korea-meteorological-administration&#34;&#xA;    &gt;&#xA;        A Visit to Korea Meteorological Administration&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/seminar_kma/#a-visit-to-korea-meteorological-administration&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: A Visit to Korea Meteorological Administration&#34; aria-label=&#34;Anchor to: A Visit to Korea Meteorological Administration&#34; href=&#34;#a-visit-to-korea-meteorological-administration&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon visited Korea Meteorological Administration and gave a talk about the analysis and application of the ocean model.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
