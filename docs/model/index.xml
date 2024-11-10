@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ASML-Yonsei</title>
+    <title>ASML-YONSEI</title>
     <link>https://airsea.yonsei.ac.kr/model/</link>
-    <description>Recent content on ASML-Yonsei</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://airsea.yonsei.ac.kr/model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on ASML-YONSEI</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://airsea.yonsei.ac.kr/model/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

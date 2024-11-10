@@ -1,5 +1,5 @@
 baseURL = "https://airsea.yonsei.ac.kr/"
-title = "ASML-Yonsei"
+title = "ASML-YONSEI"
 theme = "hugo-geekdoc"
 
 publishDir = "docs"
