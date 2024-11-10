@@ -3,6 +3,7 @@ title: "Research in ASML"
 description: ""
 draft: false
 weight: 1
+geekdocCollapseSection: true
 ---
 
 ## Air-sea interaction
@@ -22,4 +23,11 @@ weight: 1
 ## State estimation
 <div class="col-sm-4 portfolio-item shuffle-item">
   <a href="dataassimilation"><img src="/images/news_3.jpg" alt=""></a>
+</div>
+
+<br>
+
+## MITgcm example
+<div class="col-sm-4 portfolio-item shuffle-item">
+  <a href="MITgcm"><img src="/images/KJ2023.png" alt=""></a>
 </div>

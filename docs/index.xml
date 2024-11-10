@@ -22,6 +22,13 @@
       <description>Research Interests Turbulence Large eddy simulation Ocean mixed layer Planetary boundary layer Cloud microphysics Plankton dynamics Education Ph.D. (1987) Department of Earth &amp;amp; Planetary Sciences, The Johns Hopkins University, Baltimore, MD, U.S.A M.S. (1982) Department of Physics, Seoul National University, Seoul, Korea B.S. (1980) Department of Oceanography, Seoul National University, Seoul, Korea Research Experiences 1993.3 - 2022.8: Professor, Department of Atmospheric Sciences, Yonsei Univ., Seoul, Korea 1992.3 - 1993.2: Assistant Professor, Department of Oceanography, Kunsan National Univ.</description>
     </item>
     <item>
+      <title>Install</title>
+      <link>http://localhost:1313/research/MITgcm/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/MITgcm/install/</guid>
+      <description>This is how to set up MITgcm</description>
+    </item>
+    <item>
       <title>Hyo-Jeong Kim</title>
       <link>http://localhost:1313/group/hyojeongkim/</link>
       <pubDate>Fri, 01 Mar 2024 13:39:46 +0200</pubDate>
@@ -104,6 +111,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/group/alumni/</guid>
       <description> Yong-Jin Tak Postdoctoral Researcher&#xA;(2020 - 2022) Currently: Assistant Professor at Gangneung-Wonju National University KyungMin Noh Postdoctoral Researcher&#xA;(2023) Currently: Postdoctoral Researcher at Princeton University/GFDL Kyunghun Han Master&#xA;(2021 - 2023) Currently: Naval Officer Chaehyeong Lee Master&#xA;(2021 - 2023) Currently: Graduate student at University of Colorado, Boulder Chohyun Lee 2020-2022 Currently: Korea Polar Research Institute (KOPRI) Jiwoo Choi 2018-2021 Chunil Namgung 2018-2020 Suji Gwak 2019 Sanghyun Kim 2018 Currently: Graduate student in Computational Science and Engineering at Yonsei University </description>
+    </item>
+    <item>
+      <title>Coupled</title>
+      <link>http://localhost:1313/research/MITgcm/coupled/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:01 +0900</pubDate>
+      <guid>http://localhost:1313/research/MITgcm/coupled/</guid>
+      <description>This is how to set up MITgcm</description>
     </item>
     <item>
       <title>2024 AOGS 참석 </title>
