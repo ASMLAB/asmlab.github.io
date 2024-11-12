@@ -2,6 +2,7 @@
 title: "People in ASML"
 description: ""
 draft: false
+geekdocCollapseSection: true
 weight: 2
 ---
 <br>
