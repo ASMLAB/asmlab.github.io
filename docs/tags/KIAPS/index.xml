@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KIAPS on ASML-YONSEI</title>
-    <link>https://airsea.yonsei.ac.kr/tags/KIAPS/</link>
+    <link>http://localhost:1313/tags/KIAPS/</link>
     <description>Recent content in KIAPS on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/KIAPS/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/KIAPS/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KIAPS International symposium</title>
-      <link>https://airsea.yonsei.ac.kr/news/kiaps/</link>
+      <link>http://localhost:1313/news/kiaps/</link>
       <pubDate>Tue, 13 Nov 2018 23:57:16 +0900</pubDate>
-      <guid>https://airsea.yonsei.ac.kr/news/kiaps/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;2018-kiaps-international-symposium-on-the-global-nwp-system-modeling&#34;&#xA;    &gt;&#xA;        2018 KIAPS International Symposium on the Global NWP System Modeling&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://airsea.yonsei.ac.kr/news/kiaps/#2018-kiaps-international-symposium-on-the-global-nwp-system-modeling&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 2018 KIAPS International Symposium on the Global NWP System Modeling&#34; aria-label=&#34;Anchor to: 2018 KIAPS International Symposium on the Global NWP System Modeling&#34; href=&#34;#2018-kiaps-international-symposium-on-the-global-nwp-system-modeling&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon attended &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;https://www.kiaps.org/eng/external/symposium_view.do?externalSeq=71&#34;&#xA;&gt;2018 KIAPS International Symposium&lt;/a&gt; and gave a talk on the strongly coupled physical and biogeochemical data assimilation.&#xA;There were more than 30 experts on NWP and data assimilation from all over the world and shared the recent progress on their research.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/kiaps/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;2018-kiaps-international-symposium-on-the-global-nwp-system-modeling&#34;&#xA;    &gt;&#xA;        2018 KIAPS International Symposium on the Global NWP System Modeling&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/kiaps/#2018-kiaps-international-symposium-on-the-global-nwp-system-modeling&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 2018 KIAPS International Symposium on the Global NWP System Modeling&#34; aria-label=&#34;Anchor to: 2018 KIAPS International Symposium on the Global NWP System Modeling&#34; href=&#34;#2018-kiaps-international-symposium-on-the-global-nwp-system-modeling&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon attended &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;https://www.kiaps.org/eng/external/symposium_view.do?externalSeq=71&#34;&#xA;&gt;2018 KIAPS International Symposium&lt;/a&gt; and gave a talk on the strongly coupled physical and biogeochemical data assimilation.&#xA;There were more than 30 experts on NWP and data assimilation from all over the world and shared the recent progress on their research.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
