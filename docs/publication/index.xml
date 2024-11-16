@@ -4,7 +4,7 @@
     <title>Publication on ASML-YONSEI</title>
     <link>http://localhost:1313/publication/</link>
     <description>Recent content in Publication on ASML-YONSEI</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
   </channel>

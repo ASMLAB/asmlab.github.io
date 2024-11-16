@@ -1,4 +1,5 @@
 import numpy as np
+from mds import rdmds
 
 def readvar_cs(odir, varname, it=None):
     """
@@ -57,6 +58,43 @@ def readvar_cs(odir, varname, it=None):
 
         with open(fname, 'rb') as f:
             data[i] = np.fromfile(f, prec_str).reshape(-1,32,32)
+    if ndim==2:
+        varall[32:32*2, :32] = data[0]
+        varall[32:32*2, 32:32*2] = data[1]
+        varall[32*2:32*3, 32:32*2] = data[2]
+        varall[32:32*2, 32*2:32*3] = data[3,:,::-1].T
+        varall[32:32*2, 32*3:32*4] = data[4,:,::-1].T
+        varall[:32, 32*3:32*4] = data[5,:,::-1].T
+    elif ndim==3:
+        varall[:, 32:32*2, :32] = data[0]
+        varall[:, 32:32*2, 32:32*2] = data[1]
+        varall[:, 32*2:32*3, 32:32*2] = data[2]
+        varall[:, 32:32*2, 32*2:32*3] = data[3,:,:,::-1].transpose([0,2,1])
+        varall[:, 32:32*2, 32*3:32*4] = data[4,:,:,::-1].transpose([0,2,1])
+        varall[:, :32, 32*3:32*4] = data[5,:,:,::-1].transpose([0,2,1])
+
+    return varall, data
+
+def wind_cs(uwind, vwind):
+    """
+    Read the MITgcm wind files on cubed sphere grid
+
+    [input]
+    odir    :  directory for the model output
+    uname   :  u-wind file name
+    vname   :  v-wind file name
+    it      :  iteration number
+
+    [output]
+    varall  :  combined model result
+    varface :  model result on each face
+
+    [example]
+    varall, varface = readvar_cs(odir, 'T', 69120)
+    """
+
+    ndim = len(uwind.shape)
+
     if ndim==2:
         varall[32:32*2, :32] = data[0]
         varall[32:32*2, 32:32*2] = data[1]

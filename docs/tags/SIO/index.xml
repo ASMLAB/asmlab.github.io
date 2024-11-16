@@ -4,7 +4,7 @@
     <title>SIO on ASML-YONSEI</title>
     <link>http://localhost:1313/tags/SIO/</link>
     <description>Recent content in SIO on ASML-YONSEI</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/SIO/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/news/sio/</link>
       <pubDate>Sat, 01 Feb 2020 18:01:33 +0900</pubDate>
       <guid>http://localhost:1313/news/sio/</guid>
-      <description>Hajoon visited Bruce Cornuelle and Art Miller at Scripps Institution of Oceanography in February, 2020. The main purpose of the visit is to set up the WRF-MITgcm coupled model over the northwest Pacific. It was good to be back and meet amazing people there.&#xA;This visit was possible through the support from Korea Research Foundation (신진연구).</description>
+      <description>&lt;p&gt;Hajoon visited Bruce Cornuelle and Art Miller at Scripps Institution of Oceanography in February, 2020.&#xA;The main purpose of the visit is to set up the WRF-MITgcm coupled model over the northwest Pacific.&#xA;It was good to be back and meet amazing people there.&lt;/p&gt;&#xA;&lt;p&gt;This visit was possible through the support from Korea Research Foundation (신진연구).&lt;/p&gt;&#xA;&lt;div class=&#34;post-thumb&#34;&gt;&#xA;    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/news/sio_1.png&#34; alt=&#34;{{ .Title }}&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;div class=&#34;post-thumb&#34;&gt;&#xA;    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/news/sio_2.png&#34; alt=&#34;{{ .Title }}&#34;&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
