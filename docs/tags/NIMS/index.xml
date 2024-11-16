@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NIMS on ASML-YONSEI</title>
-    <link>http://localhost:1313/tags/NIMS/</link>
+    <link>https://airsea.yonsei.ac.kr/tags/NIMS/</link>
     <description>Recent content in NIMS on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/NIMS/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://airsea.yonsei.ac.kr/tags/NIMS/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seminar at NIMS</title>
-      <link>http://localhost:1313/news/seminar_nims/</link>
+      <link>https://airsea.yonsei.ac.kr/news/seminar_nims/</link>
       <pubDate>Wed, 17 Oct 2018 23:03:07 +0900</pubDate>
-      <guid>http://localhost:1313/news/seminar_nims/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;a-visit-to-national-institute-of-meteorological-sciences&#34;&#xA;    &gt;&#xA;        A Visit to National Institute of Meteorological Sciences&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/seminar_nims/#a-visit-to-national-institute-of-meteorological-sciences&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: A Visit to National Institute of Meteorological Sciences&#34; aria-label=&#34;Anchor to: A Visit to National Institute of Meteorological Sciences&#34; href=&#34;#a-visit-to-national-institute-of-meteorological-sciences&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon visited National Institute of Meteorological Sciences in Seoguipo, Jeju Island, and gave a talk with the title of global and regional physical ocean data assimilation and a strongly coupled data assimilation.&lt;/p&gt;</description>
+      <guid>https://airsea.yonsei.ac.kr/news/seminar_nims/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;a-visit-to-national-institute-of-meteorological-sciences&#34;&#xA;    &gt;&#xA;        A Visit to National Institute of Meteorological Sciences&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://airsea.yonsei.ac.kr/news/seminar_nims/#a-visit-to-national-institute-of-meteorological-sciences&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: A Visit to National Institute of Meteorological Sciences&#34; aria-label=&#34;Anchor to: A Visit to National Institute of Meteorological Sciences&#34; href=&#34;#a-visit-to-national-institute-of-meteorological-sciences&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon visited National Institute of Meteorological Sciences in Seoguipo, Jeju Island, and gave a talk with the title of global and regional physical ocean data assimilation and a strongly coupled data assimilation.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
