@@ -83,6 +83,7 @@ Now, let's run the model!
 - execute the run: `mpirun -np 4 ./mitgcmuv`
 
 ## analysis
+See the example jupyter lab file.
 
 ## additional experiments
 ### adding age tracer
