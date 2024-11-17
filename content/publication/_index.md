@@ -169,7 +169,7 @@ We diagnose the ocean’s residual overturning circulation of the Arabian Gulf i
 <br>
 
 ### Manuscripts under review
-{{< expand  "Lee, C., H. Song, Y. Choi, A. Cho and J. Marshall, Observed multi-decadal increase in the surface ocean's thermal inertia, Nature Climate Change, *sub judice*" >}}
+{{< expand  "Lee, C., H. Song, Y. Choi, A. Cho and J. Marshall, Observed multi-decadal increase in the surface ocean's thermal inertia, Nature Climate Change, *accepted*" >}}
 {{< /expand >}}
 
 {{< expand  "Song, H. and Y. Choi, E.W. Doddridge and J. Marshall, The Responses of Antarctic sea ice and overturning cells to meridional wind forcing, Journal of Climate, *sub judice*" >}}
