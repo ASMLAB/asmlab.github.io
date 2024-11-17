@@ -40,7 +40,7 @@ To clean everything:
 
 ## compile
 We need to do one thing to avoid a compiling error that might come from the compiler version issue.
-Hover the curser [here](/mitgcmfiles/setdir.c) and do right-click, then click `Save link as...`.
+Hover the curser [here](/files/mitgcmfiles/setdir.c) and do right-click, then click `Save link as...`.
 Save this file in `code_cpl` as `setdir.c`.
 
 Now, we will compile three models: coupler, ocean model and atmospheric model with the following line.

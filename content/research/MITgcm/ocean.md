@@ -76,7 +76,7 @@ We first try to run the model with the default setting.
 - copy all input files to here: `cp ../input/* .`
 - create a sympolic link of the input files to here: `./prepare_run`
 - create a sympolic link of the executable file to here: `ln -s ../build/mitgcmuv .`
-<!-- - overwrite the [`data`](/mitgcmfiles/atmos/data) file to here -->
+<!-- - overwrite the [`data`](/files/mitgcmfiles/atmos/data) file to here -->
 
 ## model integration
 Now, let's run the model!

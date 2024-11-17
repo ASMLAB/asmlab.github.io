@@ -44,7 +44,7 @@ The default setting integrates the model for only 10 time steps. We want to inte
 - go to `run` directory
 - copy all input files to here: `cp ../input/* .`
 - create a sympolic link of the executable file to here: `ln -s ../build/mitgcmuv .`
-- overwrite the [`data`](/mitgcmfiles/atmos/data) file to here
+- overwrite the [`data`](/files/mitgcmfiles/atmos/data) file to here
 
 ## model integration
 Now, let's run the model!
@@ -52,7 +52,7 @@ Now, let's run the model!
 
 ## analysis
 We want to see the model output using `python`. I have prepared a simple JupyterLab code to start wity.
-Hover the curser [here](/mitgcmfiles/cs_example.ipynb) and do right-click, then `Save link as...`.
+Hover the curser [here](/files/mitgcmfiles/cs_example.ipynb) and do right-click, then `Save link as...`.
 In order to launch this file, open up the terminal, go to the directory where you saved this file. Then 
 ```
 jupyter lab
