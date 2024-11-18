@@ -63,14 +63,16 @@ To run secondary test (with seaice dynamics as part of ocean component), using i
   ../../tools/run_cpl_test 2 icedyn
   ../../tools/run_cpl_test 3
 ```
-## use more cpus
-The default setting uses total 3 cpus (1 for each), which may not give you the best speed of integration.
-We can use more than 1 cpus for each component to speed up. 
-Let's first check the number of cpus we can use. In terminal,
+## use more CPUs
+The default setting uses total 3 CPUs (1 for each), which may not give you the best speed of integration.
+We can use more than 1 CPUs for each component to speed up. 
+Let's first check the number of CPUs we can use. In terminal,
 ```
 sysctl -n hw.ncpu
 ```
-For me, I have 8 cpus. So, I am going to use 4 cpus for the atmospheric component, 2 cpus for the oceanic component and 1 for the coupler.
+For me, I have 8 CPUs. So, I am going to use 4 CPUs for the atmospheric component, 2 CPUs for the oceanic component and 1 for the coupler.
+Then, you can edit `run_cpl_test` to specify the total number of CPUs available (`Npr`), and the number of CPUs for the ocean model (`NpOc`).
+After this edit, you can repeat the previous procedure to run the model.
 
 
 ## model results

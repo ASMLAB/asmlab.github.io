@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>서울대 on ASML-YONSEI</title>
-    <link>https://airsea.yonsei.ac.kr/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/</link>
+    <link>http://localhost:1313/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/</link>
     <description>Recent content in 서울대 on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SEES Colloquium</title>
-      <link>https://airsea.yonsei.ac.kr/news/SEES/</link>
+      <link>http://localhost:1313/news/SEES/</link>
       <pubDate>Wed, 22 May 2019 23:57:16 +0900</pubDate>
-      <guid>https://airsea.yonsei.ac.kr/news/SEES/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h2 id=&#34;sees-colloquium-at-seoul-national-university&#34;&#xA;    &gt;&#xA;        SEES Colloquium at Seoul National University&#xA;    &lt;/h2&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://airsea.yonsei.ac.kr/news/SEES/#sees-colloquium-at-seoul-national-university&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: SEES Colloquium at Seoul National University&#34; aria-label=&#34;Anchor to: SEES Colloquium at Seoul National University&#34; href=&#34;#sees-colloquium-at-seoul-national-university&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon gave a talk in the SEES Colloquium with the title of &amp;ldquo;The ocean circulation and its impact on the air-sea CO2 exchange&amp;rdquo;. He introduced the offline experiments with carbon cycle and emphasized that near-inertial waves can give a significant influence on the CO2 flux through vertical mixing.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/SEES/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h2 id=&#34;sees-colloquium-at-seoul-national-university&#34;&#xA;    &gt;&#xA;        SEES Colloquium at Seoul National University&#xA;    &lt;/h2&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/SEES/#sees-colloquium-at-seoul-national-university&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: SEES Colloquium at Seoul National University&#34; aria-label=&#34;Anchor to: SEES Colloquium at Seoul National University&#34; href=&#34;#sees-colloquium-at-seoul-national-university&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Hajoon gave a talk in the SEES Colloquium with the title of &amp;ldquo;The ocean circulation and its impact on the air-sea CO2 exchange&amp;rdquo;. He introduced the offline experiments with carbon cycle and emphasized that near-inertial waves can give a significant influence on the CO2 flux through vertical mixing.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
