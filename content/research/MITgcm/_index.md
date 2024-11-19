@@ -20,4 +20,4 @@ Workshop at KAUST on atmosphere-ocean coupled modeling
     - [3-1](/files/kaust2024/L3_1.pdf)
     - [3-2](/files/kaust2024/L3_2.pdf)
     - [3-3, updated](/files/kaust2024/L3_3.pdf)
-    - [3-4](/files/kaust2024/L3_4.pdf)
+    - [3-4, updated](/files/kaust2024/L3_4.pdf)
