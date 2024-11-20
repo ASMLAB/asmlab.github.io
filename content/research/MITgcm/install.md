@@ -62,11 +62,13 @@ When you are done, you could deactivate `mitgcm` environment like this.
 conda deactivate
 ```
 ### JupyterLab
-`jupyterlab` is a useful interface in running python. To install it, you can do the following.
+`jupyterlab` is a useful interface in running python. 
+
+<!-- To install it, you can do the following.
 ```
 conda install -c conda-forge jupyterlab
 ```
-Now, we are ready to analyze the model output.
+Now, we are ready to analyze the model output. -->
 In the terminal, do 
 ```
 jupyter lab
