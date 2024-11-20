@@ -12,11 +12,24 @@ Here are a couple of things that we need to do prior to the model experiments.
 
 ## Installing MITgcm
 - [MITgcm documentation](https://mitgcm.readthedocs.io/en/latest/getting_started/getting_started.html)
-- [Installing MITgcm on OSX by Jody Klymak](https://jklymak.github.io/MITgcmExampleSteadyGauss/install.html)
-- [Installing MITgcm on OSX by Clark Richards](https://www.clarkrichards.org/2022/01/21/first-try-running-mitgcm/)
+<!-- - [Installing MITgcm on OSX by Jody Klymak](https://jklymak.github.io/MITgcmExampleSteadyGauss/install.html)
+- [Installing MITgcm on OSX by Clark Richards](https://www.clarkrichards.org/2022/01/21/first-try-running-mitgcm/) -->
 
 ## Testing MITgcm
 MITgcm includes a set of examples that can be run straight out of the box. For example, you can try to follow the documentation on [barotropic gyre](https://mitgcm.readthedocs.io/en/latest/examples/barotropic_gyre/barotropic_gyre.html) and see you can run the model without an issue.
+
+### compile
+- go to `build` directory
+- do `../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/linux_amd64_gfortran -mpi`
+- if it is finished without a severe error, do `make depend`
+- if it is finished without a severe error, do `make`
+- if you have `mitgcmuv`, then the compliation is successful
+
+### run
+- go to `run` directory
+- copy all input files to here: `cp ../input/* .`
+- create a sympolic link of the executable file to here: `ln -s ../build/mitgcmuv .`
+- then: `./mitgcmuv`
 
 ## python
 ### miniconda
@@ -53,7 +66,10 @@ In the terminal, do
 jupyter lab
 ```
 
-This will open the web browser and launch `jupyterlab`. It consists of cells where you can do either coding, writing markdown, or just writing plain text. For more information, you can refer to its [documentation](https://jupyterlab.readthedocs.io/en/latest/).
+This will open the web browser and launch `jupyterlab`. 
+If not, you may look for the url with `localhost` in the terminal, copy and paste to the web browser.
+
+It consists of cells where you can do either coding, writing markdown, or just writing plain text. For more information, you can refer to its [documentation](https://jupyterlab.readthedocs.io/en/latest/).
 
 There are other interfaces that you can do python coding. If you are familiar with one of them, you can use it!
 
