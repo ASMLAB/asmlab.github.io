@@ -18,6 +18,10 @@ Here are a couple of things that we need to do prior to the model experiments.
 ## Testing MITgcm
 MITgcm includes a set of examples that can be run straight out of the box. For example, you can try to follow the documentation on [barotropic gyre](https://mitgcm.readthedocs.io/en/latest/examples/barotropic_gyre/barotropic_gyre.html) and see you can run the model without an issue.
 
+### configuring the system
+- go to `tools/build_options`
+- open `linux_amd64_gfortran` to edit
+- add the following line after the comments: `MPI_HOME="/usr/lib/x86_64_`
 ### compile
 - go to `build` directory
 - do `../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/linux_amd64_gfortran -mpi`

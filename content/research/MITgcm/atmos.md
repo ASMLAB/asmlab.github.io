@@ -54,9 +54,13 @@ Now, let's run the model!
 - execute the run: `mpirun -np 6 ./mitgcmuv`
 
 ## analysis
-We want to see the model output using `python`. I have prepared a simple JupyterLab code to start wity.
-Hover the pointer [here](/files/mitgcmfiles/cs_example.ipynb) and do right-click, then `Save link as...`.
-In order to launch this file, open up the terminal, go to the directory where you saved this file. Then 
+We want to see the model output using `python`. 
+What I usually do is to make a new directory called `analysis` to analyze the model results.
+
+I have prepared a simple JupyterLab code to start with.
+Hover the pointer [here](/files/mitgcmfiles/atmos/cs_example.ipynb) and do right-click, then `Save link as...`. If you decide do work in the `analysis` directory, save it to there.
+
+In order to launch this file, open up the terminal, go to the directory where you saved this file (or `analysis`). Then 
 ```
 jupyter lab
 ```
