@@ -45,7 +45,7 @@ Save this file in `code_cpl` as `setdir.c`.
 
 Now, we will compile three models: coupler, ocean model and atmospheric model with the following line.
 ```
-  ../../tools/run_cpl_test 1 -of ../../tools/build_options/darwin_amd64_gfortran
+  ../../tools/run_cpl_test 1 -of ../../tools/build_options/linux_amd64_gfortran
 ```
 
 ## integration with default configuration
