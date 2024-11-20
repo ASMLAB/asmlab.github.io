@@ -81,3 +81,4 @@ It consists of cells where you can do either coding, writing markdown, or just w
 
 There are other interfaces that you can do python coding. If you are familiar with one of them, you can use it!
 
+Then, get this [file](/files/mitgcmfiles/barotropic_gyre.ipynb).
