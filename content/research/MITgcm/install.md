@@ -21,7 +21,7 @@ MITgcm includes a set of examples that can be run straight out of the box. For e
 ### configuring the system
 - go to `tools/build_options`
 - open `linux_amd64_gfortran` to edit
-- add the following line after the comments: `MPI_HOME='/usr/lib/x86_64_-linux-gnu/openmpi'`.
+- add the following line after the comments: `MPI_HOME='/usr/lib/x86_64-linux-gnu/openmpi'`.
 - you may refer to this [file](/files/mitgcmfiles/linux_amd64_gfortran)
 
 ### compile
