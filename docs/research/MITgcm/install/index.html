@@ -66,7 +66,7 @@ Installing MITgcm Testing MITgcm configuring the system compile run python minic
       "url" : "https://airsea.yonsei.ac.kr/research/MITgcm/install/",
       "headline": "Getting started",
       "description": "Here are a couple of things that we need to do prior to the model experiments.\nInstalling MITgcm Testing MITgcm configuring the system compile run python miniconda python package JupyterLab Installing MITgcm MITgcm documentation Testing MITgcm MITgcm includes a set of examples that can be run straight out of the box. For example, you can try to follow the documentation on barotropic gyre and see you can run the model without an issue.",
-      "wordCount" : "453",
+      "wordCount" : "459",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
@@ -1733,7 +1733,11 @@ Installing MITgcm Testing MITgcm configuring the system compile run python minic
 <ul>
 <li>go to <code>tools/build_options</code></li>
 <li>open <code>linux_amd64_gfortran</code> to edit</li>
-<li>add the following line after the comments: <code>MPI_HOME=&quot;/usr/lib/x86_64_</code></li>
+<li>add the following line after the comments: <code>MPI_HOME='/usr/lib/x86_64-linux-gnu/openmpi'</code>.</li>
+<li>you may refer to this <a
+  class="gdoc-markdown__link"
+  href="/files/mitgcmfiles/linux_amd64_gfortran"
+>file</a></li>
 </ul>
 <div class="flex align-center gdoc-page__anchorwrap">
     <h3 id="compile"
