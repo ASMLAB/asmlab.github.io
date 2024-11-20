@@ -21,7 +21,9 @@ MITgcm includes a set of examples that can be run straight out of the box. For e
 ### configuring the system
 - go to `tools/build_options`
 - open `linux_amd64_gfortran` to edit
-- add the following line after the comments: `MPI_HOME="/usr/lib/x86_64_`
+- add the following line after the comments: `MPI_HOME='/usr/lib/x86_64_-linux-gnu/openmpi'`.
+- you may refer to this [file](/files/mitgcmfiles/linux_amd64_gfortran)
+
 ### compile
 - go to `build` directory
 - do `../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/linux_amd64_gfortran -mpi`
