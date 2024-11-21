@@ -65,7 +65,7 @@ We also want to use more than 1 cpu, we use `SIZE.h_mpi`.
 - rename `SIZE.h` as `SIZE.h_single`
 - rename `SIZE.h_mpi` as `SIZE.h` {{< katex >}}\rightarrow{{< /katex >}} It specifies the number of cpus as 4.
 - go to `build` directory
-- do `../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/linux_amd64_gfortran -mpi`
+- do `../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/darwin_amd64_gfortran -mpi`
 - if it is finished without a severe error, do `make depend`
 - if it is finished without a severe error, do `make`
 - if you have `mitgcmuv`, then the compliation is successful
