@@ -34,7 +34,7 @@ We want to use more than 1 cpu, we use `SIZE.h_mpi`.
 - rename `SIZE.h` as `SIZE.h_single`
 - rename `SIZE.h_mpi` as `SIZE.h` {{< katex >}}\rightarrow{{< /katex >}} It specifies the number of cpus as 6.
 - go to `build` directory
-- do `../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/linux_amd64_gfortran -mpi`
+- do `../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/darwin_amd64_gfortran -mpi`
 - if it is finished without a severe error, do `make depend`
 - if it is finished without a severe error, do `make`
 - if you have `mitgcmuv`, then the compliation is successful
@@ -54,13 +54,9 @@ Now, let's run the model!
 - execute the run: `mpirun -np 6 ./mitgcmuv`
 
 ## analysis
-We want to see the model output using `python`. 
-What I usually do is to make a new directory called `analysis` to analyze the model results.
-
-I have prepared a simple JupyterLab code to start with.
-Hover the pointer [here](/files/mitgcmfiles/atmos/cs_example.ipynb) and do right-click, then `Save link as...`. If you decide do work in the `analysis` directory, save it to there.
-
-In order to launch this file, open up the terminal, go to the directory where you saved this file (or `analysis`). Then 
+We want to see the model output using `python`. I have prepared a simple JupyterLab code to start wity.
+Hover the pointer [here](/files/mitgcmfiles/cs_example.ipynb) and do right-click, then `Save link as...`.
+In order to launch this file, open up the terminal, go to the directory where you saved this file. Then 
 ```
 jupyter lab
 ```

@@ -10,7 +10,7 @@ google_analitycs_id = "UA-123271309-1" # Your ID# search
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
-enableGitInfo = false
+enableGitInfo = true
 
 # Required if you want to render robots.txt template
 enableRobotsTXT = true
