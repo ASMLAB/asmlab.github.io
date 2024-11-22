@@ -47,7 +47,7 @@ README.md Atmosphere-Ocean coupled set-up example “cpl_aim&#43;ocn” using si
 <meta property="article:section" content="Research" />
     <meta
       property="article:modified_time"
-      content="2024-11-20T12:55:51+09:00"
+      content="2024-11-22T02:19:54+09:00"
     />
 
 
@@ -66,7 +66,7 @@ README.md Atmosphere-Ocean coupled set-up example “cpl_aim&#43;ocn” using si
       "url" : "http://localhost:1313/research/MITgcm/coupled/",
       "headline": "coupled",
       "description": "MITgcm can be an atmosphere-ocean coupled model using its own coupler. There is a verification called cpl_aim\u002bocn, and it is a coupled version of atmospheric and oceanic model on cubed sphere grid that we did so far. The instruction below can be found in README file in cpl_aim\u002bocn to run the coupled simulation.\nREADME.md Atmosphere-Ocean coupled set-up example “cpl_aim\u002bocn” using simplified atmospheric physics (AIM), in realistic configuration (orography \u0026 continent) with land and seaice component, on cubed-sphere (cs-32) grid.",
-      "wordCount" : "474",
+      "wordCount" : "511",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
@@ -78,7 +78,7 @@ README.md Atmosphere-Ocean coupled set-up example “cpl_aim&#43;ocn” using si
       "copyrightYear" : "0001",
       "dateCreated": "0001-01-01T00:00:00.00Z",
       "datePublished": "0001-01-01T00:00:00.00Z",
-      "dateModified": "2024-11-20T12:55:51.00Z",
+      "dateModified": "2024-11-22T02:19:54.00Z",
       "publisher":{
           "@type":"Organization",
           "name": "ASML-YONSEI",
@@ -1701,7 +1701,7 @@ The instruction below can be found in <code>README</code> file in <code>cpl_aim+
         <li><a href="#compile">compile</a></li>
         <li><a href="#integration-with-default-configuration">integration with default configuration</a></li>
         <li><a href="#integration-with-modification">integration with modification</a></li>
-        <li><a href="#use-more-cpus">use more cpus</a></li>
+        <li><a href="#use-more-cpus">use more CPUs</a></li>
         <li><a href="#model-results">model results</a></li>
         <li><a href="#analysis">analysis</a></li>
       </ul></nav>
@@ -1753,7 +1753,7 @@ Hover the curser <a
 >here</a> and do right-click, then click <code>Save link as...</code>.
 Save this file in <code>code_cpl</code> as <code>setdir.c</code>.</p>
 <p>Now, we will compile three models: coupler, ocean model and atmospheric model with the following line.</p>
-<pre tabindex="0"><code>  ../../tools/run_cpl_test 1 -of ../../tools/build_options/darwin_amd64_gfortran
+<pre tabindex="0"><code>  ../../tools/run_cpl_test 1 -of ../../tools/build_options/linux_amd64_gfortran
 </code></pre><div class="flex align-center gdoc-page__anchorwrap">
     <h2 id="integration-with-default-configuration"
     >
@@ -1782,17 +1782,19 @@ Save this file in <code>code_cpl</code> as <code>setdir.c</code>.</p>
 </code></pre><div class="flex align-center gdoc-page__anchorwrap">
     <h2 id="use-more-cpus"
     >
-        use more cpus
+        use more CPUs
     </h2>
-    <a data-clipboard-text="http://localhost:1313/research/MITgcm/coupled/#use-more-cpus" class="gdoc-page__anchor clip flex align-center" title="Anchor to: use more cpus" aria-label="Anchor to: use more cpus" href="#use-more-cpus">
+    <a data-clipboard-text="http://localhost:1313/research/MITgcm/coupled/#use-more-cpus" class="gdoc-page__anchor clip flex align-center" title="Anchor to: use more CPUs" aria-label="Anchor to: use more CPUs" href="#use-more-cpus">
         <svg class="gdoc-icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
     </a>
 </div>
-<p>The default setting uses total 3 cpus (1 for each), which may not give you the best speed of integration.
-We can use more than 1 cpus for each component to speed up.
-Let&rsquo;s first check the number of cpus we can use. In terminal,</p>
+<p>The default setting uses total 3 CPUs (1 for each), which may not give you the best speed of integration.
+We can use more than 1 CPUs for each component to speed up.
+Let&rsquo;s first check the number of CPUs we can use. In terminal,</p>
 <pre tabindex="0"><code>sysctl -n hw.ncpu
-</code></pre><p>For me, I have 8 cpus. So, I am going to use 4 cpus for the atmospheric component, 2 cpus for the oceanic component and 1 for the coupler.</p>
+</code></pre><p>For me, I have 8 CPUs. So, I am going to use 4 CPUs for the atmospheric component, 2 CPUs for the oceanic component and 1 for the coupler.
+Then, you can edit <code>run_cpl_test</code> to specify the total number of CPUs available (<code>Npr</code>), and the number of CPUs for the ocean model (<code>NpOc</code>).
+After this edit, you can repeat the previous procedure to run the model.</p>
 <div class="flex align-center gdoc-page__anchorwrap">
     <h2 id="model-results"
     >

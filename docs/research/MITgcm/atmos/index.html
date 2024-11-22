@@ -47,7 +47,7 @@ aim_v23_description.tex Package aim_v23 contains code for an intermediate comple
 <meta property="article:section" content="Research" />
     <meta
       property="article:modified_time"
-      content="2024-11-20T14:48:44+09:00"
+      content="2024-11-22T02:19:54+09:00"
     />
 
 
@@ -66,7 +66,7 @@ aim_v23_description.tex Package aim_v23 contains code for an intermediate comple
       "url" : "http://localhost:1313/research/MITgcm/atmos/",
       "headline": "atmosphere",
       "description": "MITgcm includes an atmospheric physics as a package and it is in aim_v23. The following is the description of this package you can find in MITgcm\/pkg\/aim_v23.\naim_v23_description.tex Package aim_v23 contains code for an intermediate complexity atmospheric physics scheme derived from the physics in the SPEEDY model of Franco Molteni. The package contains the SPEEDY physics routines, re-cast to work with pressure coordinate dynamics, together with code that interfaces the SPEEDY internal arrays to the MITgcm dynamical kernel. The following is the description of the verification named aim.5l_cs in MITgcm’s user manual.",
-      "wordCount" : "470",
+      "wordCount" : "502",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
@@ -78,7 +78,7 @@ aim_v23_description.tex Package aim_v23 contains code for an intermediate comple
       "copyrightYear" : "0001",
       "dateCreated": "0001-01-01T00:00:00.00Z",
       "datePublished": "0001-01-01T00:00:00.00Z",
-      "dateModified": "2024-11-20T14:48:44.00Z",
+      "dateModified": "2024-11-22T02:19:54.00Z",
       "publisher":{
           "@type":"Organization",
           "name": "ASML-YONSEI",
@@ -1742,7 +1742,7 @@ internal arrays to the MITgcm dynamical kernel.</div>
 <span class="gdoc-katex ">
   \(\rightarrow\)</span> It specifies the number of cpus as 6.</li>
 <li>go to <code>build</code> directory</li>
-<li>do <code>../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/darwin_amd64_gfortran -mpi</code></li>
+<li>do <code>../../../tools/genmake2 -mods ../code -optfile ../../../tools/build_options/linux_amd64_gfortran -mpi</code></li>
 <li>if it is finished without a severe error, do <code>make depend</code></li>
 <li>if it is finished without a severe error, do <code>make</code></li>
 <li>if you have <code>mitgcmuv</code>, then the compliation is successful</li>
@@ -1794,12 +1794,14 @@ internal arrays to the MITgcm dynamical kernel.</div>
         <svg class="gdoc-icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
     </a>
 </div>
-<p>We want to see the model output using <code>python</code>. I have prepared a simple JupyterLab code to start wity.
+<p>We want to see the model output using <code>python</code>.
+What I usually do is to make a new directory called <code>analysis</code> to analyze the model results.</p>
+<p>I have prepared a simple JupyterLab code to start with.
 Hover the pointer <a
   class="gdoc-markdown__link"
-  href="/files/mitgcmfiles/cs_example.ipynb"
->here</a> and do right-click, then <code>Save link as...</code>.
-In order to launch this file, open up the terminal, go to the directory where you saved this file. Then</p>
+  href="/files/mitgcmfiles/atmos/cs_example.ipynb"
+>here</a> and do right-click, then <code>Save link as...</code>. If you decide do work in the <code>analysis</code> directory, save it to there.</p>
+<p>In order to launch this file, open up the terminal, go to the directory where you saved this file (or <code>analysis</code>). Then</p>
 <pre tabindex="0"><code>jupyter lab
 </code></pre><p>You will have the web browser showing the <code>JupyterLab</code> interface. You can find this file in the left panel. Then double click it to open it.</p>
 <div class="flex align-center gdoc-page__anchorwrap">
