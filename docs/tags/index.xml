@@ -275,10 +275,10 @@
       <description></description>
     </item>
     <item>
-      <title>Southern Ocean</title>
-      <link>http://localhost:1313/tags/southern-ocean/</link>
-      <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
-      <guid>http://localhost:1313/tags/southern-ocean/</guid>
+      <title>Fire Weather</title>
+      <link>http://localhost:1313/tags/Fire-weather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Fire-weather/</guid>
       <description></description>
     </item>
     <item>
@@ -300,6 +300,13 @@
       <link>http://localhost:1313/tags/modelng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/modelng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Southern Ocean</title>
+      <link>http://localhost:1313/tags/southern-ocean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/southern-ocean/</guid>
       <description></description>
     </item>
   </channel>

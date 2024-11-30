@@ -11,6 +11,8 @@
     <loc>http://localhost:1313/research/MITgcm/install/</loc>
     <lastmod>2024-11-22T14:01:35+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/research/OceanCirc/</loc>
+  </url><url>
     <loc>http://localhost:1313/research/</loc>
     <lastmod>2024-11-11T00:06:09+09:00</lastmod>
   </url><url>
@@ -26,14 +28,28 @@
     <loc>http://localhost:1313/research/MITgcm/atmos/</loc>
     <lastmod>2024-11-22T14:01:35+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/research/AtmosCirc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/AtmosCirc/IOD/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/Climate/FWI/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/DataAssim/channel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/OceanCirc/channel/</loc>
+  </url><url>
     <loc>http://localhost:1313/group/</loc>
     <lastmod>2024-11-12T15:55:16+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/Climate/tau_SST/</loc>
   </url><url>
     <loc>http://localhost:1313/group/ajincho/</loc>
     <lastmod>2024-07-05T14:52:17+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/group/kyungminkwak/</loc>
     <lastmod>2023-09-07T12:59:40+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/Climate/</loc>
   </url><url>
     <loc>http://localhost:1313/research/MITgcm/ocean/</loc>
     <lastmod>2024-11-22T14:01:35+09:00</lastmod>
@@ -64,6 +80,8 @@
   </url><url>
     <loc>http://localhost:1313/events/</loc>
     <lastmod>2024-11-11T00:06:09+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/DataAssim/</loc>
   </url><url>
     <loc>http://localhost:1313/group/alumni/</loc>
     <lastmod>2024-09-06T10:17:50+09:00</lastmod>
@@ -353,12 +371,6 @@
     <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/southernocean/</loc>
-    <lastmod>2022-04-09T23:32:04+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/southern-ocean/</loc>
-    <lastmod>2022-04-09T23:32:04+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/research/dataassimilation/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
@@ -368,6 +380,8 @@
     <loc>http://localhost:1313/model/</loc>
     <lastmod>2023-10-07T11:47:50+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/Fire-weather/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/MITgcm/</loc>
     <lastmod>2024-11-22T14:01:35+09:00</lastmod>
   </url><url>
@@ -376,5 +390,7 @@
   </url><url>
     <loc>http://localhost:1313/tags/modelng/</loc>
     <lastmod>2024-11-22T14:01:35+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/southern-ocean/</loc>
   </url>
 </urlset>
