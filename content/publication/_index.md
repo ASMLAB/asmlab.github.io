@@ -17,9 +17,19 @@ A simple stochastic model attributes this prolonged memory to three key factors:
 Our findings have great relevance to the observed increase in the duration of marine heatwaves and associated heightened thermal threats to marine organisms. Our study also suggests that the ocean's ability to sequester heat is weakening.
 {{< /expand >}}
 
+{{< expand  "Song, H. and Y. Choi, E.W. Doddridge and J. Marshall, The Responses of Antarctic sea ice and overturning cells to meridional wind forcing, Journal of Climate, *accepted*" >}}
+#### Abstract
+Meridional winds over the seasonal ice zone of the Antarctic have undergone changes and likely contributed to sea ice extent variability in recent decades. In this study, using observations and an eddy-resolving channel model of the Antarctic seasonal ice zone, we investigate the influence of meridional wind changes on the sea ice distribution, and document how the underlying ocean might change. We find that southerly wind anomalies in austral winter lead to an increase in sea ice extent by encouraging equatorward sea ice drift. This results in more leads and polynyas, ice production and buoyancy loss near the coastal region and freshening out in the open ocean near the Antarctic Circumpolar Current. In contrast, summertime southerly wind anomalies reduce sea ice extent due to warming anomalies near the sea ice edge. This is a consequence of enhanced meridional overturning circulation (MOC) triggered by enhanced buoyancy loss through surface heat flux and brine rejection, which brings relatively warm water towards the summertime sea ice edge. A water-mass transformation analysis reveals the increased deep water formation caused by brine rejection and heat loss in leads and polynyas. Changes in sea ice extent and MOC behave in the opposite way when the sign of the wind anomaly is switched from southerly to northerly. Our study shows that meridional wind anomalies can modify not only the sea ice distribution, extent of polynyas and air-sea buoyancy fluxes, but also the ocean's MOC and bottom water properties.
+{{< /expand >}}
+
 {{< expand  "Noh, Y., H.J. Seunu, H. Song and Y. Choi, Mixing of top-down and bottom-up diffusing reactive tracers within the ocean mixed layer and its application to autumn phytoplankton blooms. Journal of Geophysical Research: Oceans, *accepted*" >}}
 #### Abstract
 The mixing of reactive tracers within the ocean mixed layer, phytoplankton transported downwards from the sea surface and nutrients transported upwards from the mixed layer depth, is investigated using large eddy simulation coupled to a Lagrangian plankton model. The study focuses on how vertical and horizontal heterogeneity in tracer distributions is generated and how it influences an autumn phytoplankton bloom. The vertical gradient appears in the profiles of horizontal mean phytoplankton and nutrient concentrations, P and N, and it reduces phytoplankton production by photosynthesis compared to the cases with uniform distributions. The reduction ratio decreases as the mixed-layer mean N increases, but it remains relatively insensitive to other conditions such as mixed layer depth, surface forcing, stratification below the mixed layer, and the initial N. Phytoplankton and nutrient concentrations show a negative correlation in the horizontal plane, which becomes stronger with increasing depth. Its contribution to plankton production by photosynthesis is negligible, however, because the correlation is weak near the sea surface and the reaction time scale is much longer than the turbulent mixing time scale. It is also found that the vertical gradients of P and N are smaller, and the negative correlation is stronger in the convective mixed layer than in the shear-driven mixed layer.  A simple box plankton model, which takes into account the mixing process of tracers, is proposed and used to investigate how mixing affects the prediction of an autumn phytoplankton bloom. 
+{{< /expand >}}
+
+{{< expand  "Kim, H.-J. and J.-S. Kim, S.-I. An, J. Shin, J.-H. Oh, and J.-S. Kug (2024) Pervasive fire danger continued under a negative emission scenario. *Nature Communications* **15** 11010. https://doi.org/10.1038/s41467-024-54339-2" >}}
+#### Abstract
+Enhanced fire-prone weather under greenhouse gas warming can significantly affect local and global carbon budgets from increased fire occurrence, influencing carbon-climate feedbacks. However, the extent to which changes in fire-prone weather and associated carbon emissions can be mitigated by negative emissions remains uncertain. Here, we analyze fire weather responses in CO2 removal climate model experiments and estimate their potential carbon emissions based on an observational relationship between fire weather and fire-induced CO2 emissions. The results highlight that enhanced fire danger under global warming cannot be restored instantaneously by CO2 reduction, mainly due to atmospheric dryness maintained by climatic inertia. The exacerbated fire danger is projected to contribute to extra CO2 emissions in 68% of global regions due to the hysteresis of climate responses to CO2 levels. These findings highlight that even under global cooling from negative emissions, increased fire activity may reinforce the fire-carbon-climate feedback loop and result in further socio-economic damage.
 {{< /expand >}}
 
 
@@ -33,7 +43,7 @@ The Atlantic meridional overturning circulation is an important component of the
 The k-means clustering of reanalysis datasets is used to classify the intrinsic atmospheric circulation in Asia based on the daily geopotential height of 500 hPa during the boreal summer (June, July and August) for 1958–2020. Among the total clusters of atmospheric circulation patterns in Asia, two distinct clusters of atmospheric circulation are characterized by a significant increasing trend in occurrence. They correspond to different zonal wave numbers (1–2 vs. 3–4) of atmospheric circulation in the mid-to-high latitudes of the Northern Hemisphere, and their associated sea surface temperature structures are not the same in the tropical Pacific and the North Atlantic. Further analysis indicates that two clusters of atmospheric circulation alter the amount of summer monsoon precipitation in East Asia, and an increasing amount of precipitation in southern China in recent decades could be explained by the combined effect of an increasing trend in the frequency of occurrence of two clusters of atmospheric circulation. Finally, a long-term simulation of the Community Earth System Model version 2 suggests that anthropogenic forcing may be responsible for the increasing trend of occurrence of the two atmospheric circulations in Asia.
 {{< /expand >}}
 
-{{< expand  "Salim, M., Subeesh M P, J. Scott, H. Song, J. Marshall, M.R. Al Shehhi (2024). Role of tidal mixing on ocean exchange through the Strait of Hormuz. _Environ. Res. Commun._, 6, 071006. https://doi.org/10.1088/2515-7620/ad578c" >}}
+{{< expand  "Salim, M., Subeesh M P, J. Scott, H. Song, J. Marshall and M.R. Al Shehhi (2024). Role of tidal mixing on ocean exchange through the Strait of Hormuz. _Environ. Res. Commun._, 6, 071006. https://doi.org/10.1088/2515-7620/ad578c" >}}
 #### Abstract
 We investigate the influence of tides on the exchange of water between the Arabian Gulf and the Sea of Oman through the Strait of Hormuz using a high-resolution numerical model. Two numerical simulations are contrasted, one with and one without tidal forcing. We find that tides suppress exchange through the Strait, by ∼20% in the annual mean, being largest in the summer (∼30%) and diminishing in the winter (∼13%). Tides enhance the parameterised shear-driven vertical mixing inside the Gulf and Strait, mixing warm, relatively fresh surface waters downward thus reducing the density of bottom waters flowing outwards. This reduces the lateral difference of density between Gulf and Sea of Oman and hence the exchange through the Strait. Maximum reductions occur in summer when both the vertical stratification and mixing is the largest.
 {{< /expand >}}
@@ -184,12 +194,6 @@ We diagnose the ocean’s residual overturning circulation of the Arabian Gulf i
 <br>
 
 ### Manuscripts under review
-{{< expand  "Lee, C., H. Song, Y. Choi, A. Cho and J. Marshall, Observed multi-decadal increase in the surface ocean's thermal inertia, Nature Climate Change, *accepted*" >}}
-{{< /expand >}}
-
-{{< expand  "Song, H. and Y. Choi, E.W. Doddridge and J. Marshall, The Responses of Antarctic sea ice and overturning cells to meridional wind forcing, Journal of Climate, *sub judice*" >}}
-{{< /expand >}}
-
 {{< expand  "Cho, A., H. Song, H. Seo, R. Sun, M.R. Mazloff, A.C. Subramanian, B.D. Cornuelle and A.J. Miller, Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System, Ocean Modelling, *sub judice*" >}}
 {{< /expand >}}
 
@@ -200,9 +204,6 @@ We diagnose the ocean’s residual overturning circulation of the Arabian Gulf i
 {{< /expand >}}
 
 {{< expand  "Subeesh, M.P., H. Song, Y. Addad, J.R. Scott, J. Marshall and M.R. Al Shehhi, Seasonality of internal tides in the Strait of Hormuz: observations and modelling, Journal of Geophysical Research: Oceans, *sub judice*" >}}
-{{< /expand >}}
-
-{{< expand  "Noh, Y., H.J. Seunu, H. Song and Y. Choi, Mixing of top-down and bottom-up diffusing reactive tracers within the ocean mixed layer and its application to autumn phytoplankton blooms. Journal of Geophysical Research: Oceans, *sub judice*" >}}
 {{< /expand >}}
 
 {{< expand  "Zhan, P., Z. Yan, A. Karumuri, D. Guo, G. Krokos, H. Song and I. Hoteit, Beyond Steady Warming in Marginal Seas: Unraveling AMO’s Role in Driving Arabian Gulf Temperature Oscillations. Geophysical Research Letters, *sub judice*" >}}

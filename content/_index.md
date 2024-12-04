@@ -24,6 +24,7 @@ geekdocHidden: true
     </style>
   </head>
   <body>
+    <a href="/research">
     <div class="jb-box">
       <video muted autoplay loop playsinline>
         <source src="images/Ocean.mp4" type="video/mp4">
@@ -34,6 +35,7 @@ geekdocHidden: true
         <p>Yonsei Univ.</p>
       </div>
     </div>
+    </a>
     <a id="banner" href="/model" target="_blank">
       <span style="background: rgba(0,0,0,0.5);">Check out our simulations</span>
     </a>
@@ -43,7 +45,7 @@ geekdocHidden: true
   </body>
 </html>
 
-# Recent Research
+# [Recent Research](/publication/)
 <div class="swiffy-slider slider-item-show3 slider-nav-visible slider-nav-animation slider-nav-animation-appear slider-nav-outside-expand">
 <html lang="ko">
   <ul class="slider-container py-4" id="slider2">
@@ -190,4 +192,4 @@ geekdocHidden: true
   <button type="button" class="slider-nav slider-nav-next"></button>
 </div>
 
-{{< button size="large" relref="research/" >}}Getting Started{{< /button >}}
+{{< button size="large" relref="group/" >}}About Us{{< /button >}}
