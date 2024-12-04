@@ -6,7 +6,7 @@
     <description>Recent content in Tags on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Nov 2024 14:01:35 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 11:32:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AOGS</title>
@@ -254,20 +254,6 @@
       <description></description>
     </item>
     <item>
-      <title>Air-Sea Interaction</title>
-      <link>http://localhost:1313/tags/air-sea-interaction/</link>
-      <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
-      <guid>http://localhost:1313/tags/air-sea-interaction/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Assimilation</title>
-      <link>http://localhost:1313/tags/data-assimilation/</link>
-      <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
-      <guid>http://localhost:1313/tags/data-assimilation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>News</title>
       <link>http://localhost:1313/tags/news/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
@@ -275,10 +261,31 @@
       <description></description>
     </item>
     <item>
+      <title>Climate</title>
+      <link>http://localhost:1313/tags/climate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/climate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dataassimilation</title>
+      <link>http://localhost:1313/tags/dataassimilation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dataassimilation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Fire Weather</title>
       <link>http://localhost:1313/tags/Fire-weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/Fire-weather/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOD</title>
+      <link>http://localhost:1313/tags/IOD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/IOD/</guid>
       <description></description>
     </item>
     <item>
