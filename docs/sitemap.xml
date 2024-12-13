@@ -98,6 +98,18 @@
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/news/kyungmin_SIO/</loc>
+    <lastmod>2024-12-10T21:31:46+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/SIO/</loc>
+    <lastmod>2024-12-10T21:31:46+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-10T21:31:46+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2024-12-10T21:31:46+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/aogs_2024/</loc>
     <lastmod>2024-07-13T00:59:41+09:00</lastmod>
   </url><url>
@@ -106,9 +118,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/conference/</loc>
     <lastmod>2024-07-13T00:59:41+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-30T11:32:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/IWMO/</loc>
     <lastmod>2024-07-12T10:15:52+09:00</lastmod>
@@ -148,6 +157,9 @@
   </url><url>
     <loc>http://localhost:1313/news/grad_khhan/</loc>
     <lastmod>2024-03-24T17:51:46+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/events/JohnMarshall/</loc>
+    <lastmod>2023-12-12T00:00:01+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/ocean_seminar_2023_2/</loc>
     <lastmod>2024-05-31T14:30:02+09:00</lastmod>
@@ -224,9 +236,6 @@
     <loc>http://localhost:1313/news/hiring_postdoc/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/SIO/</loc>
-    <lastmod>2022-04-09T23:32:04+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/sio/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
@@ -243,9 +252,6 @@
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/MITvisit_2019/</loc>
-    <lastmod>2022-04-09T23:32:04+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/travel/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/IUGG/</loc>
@@ -373,8 +379,6 @@
   </url><url>
     <loc>http://localhost:1313/model/</loc>
     <lastmod>2023-10-07T11:47:50+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/news/kyungmin_SIO/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/climate/</loc>
     <lastmod>2024-11-30T11:32:00+09:00</lastmod>
