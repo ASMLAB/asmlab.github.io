@@ -17,7 +17,7 @@ Proj. John Marshall (MIT)이 방한하여 특별강연을 합니다.
 
 - 일시: **12월 16일 (월) 오후 1시**
 - 장소: 연세대학교 신촌캠퍼스 과학관 B101호
-- 제목: *The arctic leads global warming while Antarctica is cooling: what’s happening over the poles?*
+- 제목: *The Arctic leads global warming while Antarctica is cooling: what’s happening over the poles?*
 
 <div class='image'>
 <img src="/images/Marshall_seminar1.jpg" class="img-responsive; width:25%;" alt="">
