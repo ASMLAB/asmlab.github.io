@@ -40,3 +40,8 @@ Proj. John Marshall (MIT)이 방한하여 특별강연을 합니다.
 
 - **[연세대학교 오시는 길](https://www.yonsei.ac.kr/sc/intro/directions1.jsp)**
 - **[캠퍼스지도에서 "과학관" 검색](https://www.yonsei.ac.kr/sc/intro/openmap.jsp)**
+
+## 주차권 신청
+
+- 주차권을 20매 준비되어 있으니 다음 링크에서 신청해주세요.
+- [주차권 신청](https://forms.gle/9arCVdpBHoWM8T828)
