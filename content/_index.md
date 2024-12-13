@@ -52,6 +52,25 @@ geekdocHidden: true
     <!-- item #1 -->
     <li>
       <div class="card shadow h-100">
+        <a href="/research/Climate/FWI/">
+        <div class="ratio ratio-16x9">
+          <img src="/images/Fig.2.v7.all-grids.png" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        </a>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Kim et al. (2024)</strong>
+            <p class="card-text">"Pervasive fire danger continued under a negative emission scenario"</p>
+          </div>
+          <a href="https://doi.org/10.1038/s41467-024-54339-2">
+          <div class="px-md-2">in Nature Communications</div>
+      </a>
+        </div>
+      </div>
+    </li>
+    <!-- item #1 -->
+    <li>
+      <div class="card shadow h-100">
         <div class="ratio ratio-16x9">
           <img src="/images/kim_fig3.png" class="card-img-top" loading="lazy" alt="...">
         </div>
