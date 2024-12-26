@@ -7,9 +7,7 @@ description: ""
 ---
 
 ---
-Proj. John Marshall (MIT)이 방한하여 특별강연을 합니다.
-
-
+2024년 12월 16~19일, Proj. John Marshall (MIT)이 방한하여 특별강연과 함께 대학원생 및 신진연구자들과 개별적인 토의를 하였습니다.
 
 {{< columns >}} 
 
@@ -36,12 +34,14 @@ Proj. John Marshall (MIT)이 방한하여 특별강연을 합니다.
 
 {{< /columns >}}
 
-## 오시는 길
+강연을 마친 뒤, air-sea modeling lab 연구원들과 함께 기념사진도 촬영하였습니다.
 
-- **[연세대학교 오시는 길](https://www.yonsei.ac.kr/sc/intro/directions1.jsp)**
-- **[캠퍼스지도에서 "과학관" 검색](https://www.yonsei.ac.kr/sc/intro/openmap.jsp)**
-
-## 주차권 신청
-
-- 주차권을 20매 준비되어 있으니 다음 링크에서 신청해주세요.
-- [주차권 신청](https://forms.gle/9arCVdpBHoWM8T828)
+{{< columns >}} 
+<div class='image'>
+<img src="/images/with_John_2.jpeg" class="img-responsive; width:40%;" alt="">
+</div>
+<---> <!-- magic separator, between columns -->
+<div class='image'>
+<img src="/images/with_John_9.jpeg" class="img-responsive; width:60%;" alt="">
+</div>
+{{< /columns >}}
