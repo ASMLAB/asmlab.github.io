@@ -56,6 +56,12 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     </tr>
     <tr>
       <td style="min-width:100px"></td>
+      <td>SeungYeon Choi</td>
+      <td>2022-2024</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
       <td>Jiwoo Choi</td>
       <td>2018-2021</td>
       <td></td>
@@ -64,7 +70,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
       <td style="min-width:100px"></td>
       <td>Chunil Namgung</td>
       <td>2018-2020</td>
-      <td></td>
+      <td>Currently: Tech University of Korea</td>
     </tr>
     <tr>
       <td style="min-width:100px"></td>
