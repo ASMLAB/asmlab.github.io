@@ -40,7 +40,7 @@ graph LR
 The weaker southerly wind anomalies seem to lead to the opposite responses.
 
 ## Application
-The southerly winds over Antarctica have relativly high uncertainty, exhibiting significant variability across atmospheric reanalysis products. Future changes in these winds introduce an additional layer of uncertainty. This study emphasizes the critical link between southerly winds over the sea ice and the circulation of the Southern Ocean, underscoring the need for greater efforts to improve the accuracy of southerly wind estimates to enhance the reliability of Southern Ocean circulation simulations.
+The southerly winds over Antarctica have relatively high uncertainty, exhibiting significant variability across atmospheric reanalysis products. Future changes in these winds introduce an additional layer of uncertainty. This study emphasizes the critical link between southerly winds over the sea ice and the circulation of the Southern Ocean, underscoring the need for greater efforts to improve the accuracy of southerly wind estimates to enhance the reliability of Southern Ocean circulation simulations.
 
 ## Publication
 Song, H. and Y. Choi, E.W. Doddridge and J. Marshall, The Responses of Antarctic sea ice and overturning cells to meridional wind forcing, Journal of Climate, sub judice
