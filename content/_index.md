@@ -52,6 +52,25 @@ geekdocHidden: true
     <!-- item #1 -->
     <li>
       <div class="card shadow h-100">
+        <a href="/research/Biogeochem/autumnbloom/">
+        <div class="ratio ratio-16x9">
+          <img src="/files/research_figs/autumnbloom_fig2.jpg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        </a>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Noh et al. (2024)</strong>
+            <p class="card-text">"Mixing of top-down and bottom-up diffusing reactive tracers within the ocean mixed layer and its application to autumn phytoplankton blooms."</p>
+          </div>
+          <a href="https://doi.org/10.1029/2024JC021757">
+          <div class="px-md-2">in Journal of Geophysical Research: Oceans</div>
+      </a>
+        </div>
+      </div>
+    </li>
+    <!-- item #1 -->
+    <li>
+      <div class="card shadow h-100">
         <a href="/research/Climate/FWI/">
         <div class="ratio ratio-16x9">
           <img src="/images/Fig.2.v7.all-grids.png" class="card-img-top" loading="lazy" alt="...">
