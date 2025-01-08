@@ -90,9 +90,11 @@ geekdocHidden: true
     <!-- item #1 -->
     <li>
       <div class="card shadow h-100">
+        <a href="/research/AtmosCirc/IOD_DHKIM/">
         <div class="ratio ratio-16x9">
           <img src="/images/kim_fig3.png" class="card-img-top" loading="lazy" alt="...">
         </div>
+        </a>
         <div class="card-body d-flex flex-column flex-md-row">
           <div class="flex-grow-1">
             <strong>Kim et al. (2024)</strong>
