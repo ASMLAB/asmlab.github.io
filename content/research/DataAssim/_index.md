@@ -3,7 +3,7 @@ title: "State Estimation"
 categories: ["Research"]
 tags: ["dataassimilation"]
 geekdocCollapseSection: true
-weight: 5
+weight: 6
 ---
 
 {{< toc >}}
