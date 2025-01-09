@@ -1,7 +1,7 @@
 ---
 title: MITgcm
 geekdocCollapseSection: true
-weight: 10
+weight: 1
 ---
 
 Workshop at KAUST on atmosphere-ocean coupled modeling
