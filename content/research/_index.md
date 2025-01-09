@@ -29,5 +29,5 @@ geekdocCollapseSection: true
 
 ## MITgcm example
 <div class="col-sm-4 portfolio-item shuffle-item">
-  <a href="MITgcm"><img src="/images/KJ2023.png" alt=""></a>
+  <a href="Modeling"><img src="/images/KJ2023.png" alt=""></a>
 </div>
