@@ -9,14 +9,16 @@
     <lastmod>2023-12-07T12:01:05+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Modeling/MITgcm/install/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Modeling/MITgcm/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/OceanCirc/</loc>
     <lastmod>2024-11-30T11:32:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
-    <lastmod>2024-11-11T00:06:09+09:00</lastmod>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/Climate/tau_SST/</loc>
     <lastmod>2024-11-30T11:32:00+09:00</lastmod>
@@ -31,6 +33,7 @@
     <lastmod>2022-04-11T13:33:12+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Modeling/MITgcm/atmos/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/AtmosCirc/</loc>
     <lastmod>2025-01-08T11:17:42+09:00</lastmod>
@@ -42,6 +45,7 @@
     <lastmod>2024-11-30T11:32:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Modeling/JuliaLang/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/OceanCirc/channel/</loc>
     <lastmod>2024-12-27T21:46:04+09:00</lastmod>
@@ -65,6 +69,7 @@
     <lastmod>2024-11-30T11:32:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Modeling/MITgcm/ocean/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-12-30T12:02:38+09:00</lastmod>
@@ -88,8 +93,10 @@
     <lastmod>2023-02-23T17:22:06+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Modeling/MITgcm/coupled/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Modeling/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/Biogeochem/</loc>
     <lastmod>2024-12-30T12:02:38+09:00</lastmod>
@@ -104,6 +111,7 @@
     <lastmod>2024-12-26T22:09:29+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Modeling/JuliaLang/julia_mpi/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
@@ -115,7 +123,7 @@
     <lastmod>2024-12-10T21:31:46+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-08T11:17:42+09:00</lastmod>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/travel/</loc>
     <lastmod>2024-12-10T21:31:46+09:00</lastmod>
@@ -403,18 +411,22 @@
     <lastmod>2025-01-08T11:17:42+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/Julia/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/Large-Eddy-Simulation/</loc>
     <lastmod>2024-12-27T21:46:04+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/MITgcm/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/model/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/modeling/</loc>
-    <lastmod>2025-01-08T11:17:42+09:00</lastmod>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/modelng/</loc>
+    <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/southern-ocean/</loc>
     <lastmod>2024-11-30T11:32:00+09:00</lastmod>
