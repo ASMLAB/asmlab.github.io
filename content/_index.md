@@ -52,6 +52,25 @@ geekdocHidden: true
     <!-- item #1 -->
     <li>
       <div class="card shadow h-100">
+        <a href="/research/airsea/current_ajin/">
+        <div class="ratio ratio-16x9">
+          <img src="/files/research_figs/8.png" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        </a>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Cho et al. (2025)</strong>
+            <p class="card-text">"Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System."</p>
+          </div>
+          <a href="https://doi.org/10.1016/j.ocemod.2024.102496">
+          <div class="px-md-2">in Ocean Modelling</div>
+      </a>
+        </div>
+      </div>
+    </li>  
+    <!-- item #1 -->
+    <li>
+      <div class="card shadow h-100">
         <a href="/research/Biogeochem/autumnbloom/">
         <div class="ratio ratio-16x9">
           <img src="/files/research_figs/autumnbloom_fig2.jpg" class="card-img-top" loading="lazy" alt="...">
