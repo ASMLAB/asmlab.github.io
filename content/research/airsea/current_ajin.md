@@ -52,4 +52,4 @@ D --> |Seasonally|E
 This study indicate the importance of mesoscale oceanic forcing near the western boundary currents in terms of two types of current feedbacks.
 
 ## Publication
-Cho, A. and H. Song, H. Seo, R. Sun, M.R. Mazloff, A.C. Subramanian, B.D. Cornuelle and A.J. Miller, Dynamic and thermodynamic coupling between the atmosphere and ocean near the Kuroshio current and extension system, 2025, Ocean Modelling, 194 102496. doi:https://doi.org/10.1016/j.ocemod.2024.102496
+Cho, A. and H. Song, H. Seo, R. Sun, M.R. Mazloff, A.C. Subramanian, B.D. Cornuelle and A.J. Miller, Dynamic and thermodynamic coupling between the atmosphere and ocean near the Kuroshio current and extension system, 2025, *Ocean Modelling*, **194** 102496, https://doi.org/10.1016/j.ocemod.2024.102496
