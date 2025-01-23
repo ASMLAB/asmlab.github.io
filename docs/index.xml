@@ -64,6 +64,13 @@
       <description>&lt;p&gt;MITgcm includes an atmospheric physics as a package and it is in &lt;code&gt;aim_v23&lt;/code&gt;.&#xA;The following is the description of this package you can find in &lt;code&gt;MITgcm/pkg/aim_v23&lt;/code&gt;.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;blockquote class=&#34;gdoc-hint note&#34;&gt;&#xA;  &lt;div class=&#34;gdoc-hint__title flex align-center&#34;&gt;&lt;svg class=&#34;gdoc-icon gdoc_check&#34;&gt;&lt;use xlink:href=&#34;#gdoc_check&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;      &lt;span&gt;aim_v23_description.tex&lt;/span&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;gdoc-hint__text&#34;&gt;Package &lt;code&gt;aim_v23&lt;/code&gt; contains code for an intermediate complexity atmospheric&#xA;physics scheme derived from the physics in the SPEEDY model of Franco Molteni.&#xA;The package contains the SPEEDY physics routines, re-cast to work with pressure&#xA;coordinate dynamics, together with code that interfaces the SPEEDY&#xA;internal arrays to the MITgcm dynamical kernel.&lt;/div&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;The following is the description of the verification named &lt;code&gt;aim.5l_cs&lt;/code&gt; in &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;https://mitgcm.readthedocs.io/en/latest/examples/examples.html#additional-example-experiments-forward-model-setups&#34;&#xA;&gt;MITgcm&amp;rsquo;s user manual&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Current-wind interaction in the Kuroshio extension</title>
+      <link>http://localhost:1313/research/airsea/current_ajin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/airsea/current_ajin/</guid>
+      <description>&lt;p&gt;Relative wind (RW; wind relative to surface currents) has been shown to play a crucial role in air-sea interactions, influencing both atmospheric and oceanic dynamics. While the RW effects through momentum flux are well-documented, those through turbulent heat fluxes remain unknown. In this study, we investigate two distinct surface current feedbacks – those associated with the momentum flux and turbulent heat fluxes – by modifying respective bulk formulations in the regional ocean-atmosphere coupled system, and analyze both immediate and seasonal changes in the boundary layers.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>IOD&amp;ENSO</title>
       <link>http://localhost:1313/research/AtmosCirc/IOD_DHKIM/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
