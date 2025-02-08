@@ -8,8 +8,14 @@ weight: 3
 
 ### Peer-reviewed paper
 --------------
+{{< expand  "Kim, Y., H. Song, K. Han, S.-I. Ah, Y.-G. Park, J. Marshall, Residual overturning circulation and associated water-mass transformation in the East/Japan Sea, Journal of Physical Oceanography, *accepted*" >}}
+#### Abstract
+The East/Japan Sea (EJS), a marginal sea in the northwest Pacific, has marked isopycnal slopes, especially during winter, implying a store of potential energy available for baroclinic instability and hence, perhaps, a significant role for eddy processes in shaping the residual (mean plus eddy) overturning circulation. Here, for the first time, we compute the residual overturning circulation in the EJS in a high resolution simulation and relate it to water-mass transformation processes due to air-sea fluxes and interior mixing. A sizable eddy-driven circulation is indeed found in the vicinity of tilted isopycnals.
+Wintertime surface buoyancy loss facilitates a volume flux toward higher density classes, with latent heat loss being the main contributor and sensible heat loss also playing a role. The densification of northward subsurface flow is associated with diapycnal mixing. 
+The water-mass formation rate, derived from the transformation rate, identifies upwelling and downwelling to the south and north of the subpolar front near 39.5&deg;N, respectively, consistent with the broad pattern of residual overturning circulation.
+{{< /expand >}}
 
-{{< expand  "Lee, C., H. Song, Y. Choi, A. Cho and J. Marshall, Observed multi-decadal increase in the surface ocean's thermal inertia, *Nature Climate Change*,    accepted" >}}
+{{< expand  "Lee, C., Song, H., Choi, Y., Cho, A., & Marshall, J. (2025). Observed multi-decadal increase in the surface ocean’s thermal inertia. *Nature Climate Change*, 1–7. https://doi.org/10.1038/s41558-025-02245-w or https://rdcu.be/d8QO9" >}}
 #### Abstract
 The ocean surface layer is crucial in Earth's climate, absorbing excess atmospheric heat, thereby regulating global temperatures.
 Here, using daily sea surface temperature (SST) global data, we document a notable increase in the persistence of SST anomalies across the global ocean since 1982.
@@ -201,9 +207,6 @@ We diagnose the ocean’s residual overturning circulation of the Arabian Gulf i
 <br>
 
 ### Manuscripts under review
-{{< expand  "Kim, Y., H. Song, K. Han, S.-I. Ah, Y.-G. Park, J. Marshall, Residual overturning circulation and associated water-mass transformation in the East/Japan Sea, Journal of Physical Oceanography, *sub judice*" >}}
-{{< /expand >}}
-
 {{< expand  "Kwak, K., H. Song, N. Yeo, E.-C. Chang, M.-S. Koo, E. Lee and J. Park, Improved subseasonal prediction of Atmospheric Energy Transport over the Northwest Pacific using an atmosphere-ocean coupled model. Monthly Weather Review, *sub judice*" >}}
 {{< /expand >}}
 
