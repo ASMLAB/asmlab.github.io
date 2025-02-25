@@ -10,7 +10,7 @@ type: "post"
 ---
 ###
  
-2024.10.27(일)부터 11.10(일)까지, 곽경민 연구원은 해양수산과학기술진흥원(KIMST)의 지원을 받아 스크립스 해양연구소를 방문하여 Dr. Mazloff와 Dr.Sun 과 함께 대기-해양-탄소 결합 모형 개발에 참여했습니다. 
+2024.10.27(일)부터 11.10(일)까지, [곽경민 연구원](/group/kyungminkwak/#anchor)은 해양수산과학기술진흥원(KIMST)의 지원을 받아 스크립스 해양연구소를 방문하여 Dr. Mazloff와 Dr.Sun 과 함께 대기-해양-탄소 결합 모형 개발에 참여했습니다. 
  
 <div class='image'>
 <img src="/images/news/kyungmin_SIO.jpeg" class="img-responsive; width:25%;" alt="">
