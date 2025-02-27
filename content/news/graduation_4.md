@@ -19,6 +19,6 @@ Also ASML got new member in the winter, 2025. **[Jieun](/group/jieunshin/#anchor
 
 <div class='image'>
 <img src="/images/news/graduation_2025_1.png" class="img-responsive; width:50%;" alt="">
-<img src="/images/news/graduation_2025_2.png" class="img-responsive; width:50%;" alt="">
+<img src="/images/news/graduation_2025_3.png" class="img-responsive; width:50%;" alt="">
 </div>
 <br>
