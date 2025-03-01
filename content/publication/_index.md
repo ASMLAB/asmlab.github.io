@@ -15,7 +15,7 @@ Wintertime surface buoyancy loss facilitates a volume flux toward higher density
 The water-mass formation rate, derived from the transformation rate, identifies upwelling and downwelling to the south and north of the subpolar front near 39.5&deg;N, respectively, consistent with the broad pattern of residual overturning circulation.
 {{< /expand >}}
 
-{{< expand  "Lee, C., Song, H., Choi, Y., Cho, A., & Marshall, J. (2025). Observed multi-decadal increase in the surface ocean’s thermal inertia. *Nature Climate Change*, 1–7. https://doi.org/10.1038/s41558-025-02245-w or https://rdcu.be/d8QO9", Research Briefing: https://rdcu.be/d9Opj >}}
+{{< expand  "Lee, C., Song, H., Choi, Y., Cho, A., & Marshall, J. (2025). Observed multi-decadal increase in the surface ocean’s thermal inertia. *Nature Climate Change*, 1–7. https://doi.org/10.1038/s41558-025-02245-w or https://rdcu.be/d8QO9, Research Briefing: https://rdcu.be/d9Opj" >}}
 #### Abstract
 The ocean surface layer is crucial in Earth's climate, absorbing excess atmospheric heat, thereby regulating global temperatures.
 Here, using daily sea surface temperature (SST) global data, we document a notable increase in the persistence of SST anomalies across the global ocean since 1982.
