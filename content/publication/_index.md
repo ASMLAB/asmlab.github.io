@@ -8,6 +8,12 @@ weight: 3
 
 ### Peer-reviewed paper
 --------------
+{{< expand  "Kwak, K., H. Song, N. Yeo, E.-C. Chang, M.-S. Koo, E. Lee and J. Park, Improved subseasonal prediction of Atmospheric Energy Transport over the Northwest Pacific using an atmosphere-ocean coupled model. Monthly Weather Review, *sub judice*" >}}
+#### Abstract
+Poleward transport of energy is essential for reducing the Earth's energy imbalance. During boreal summer, equatorward dry static energy transport (DSET) and poleward latent heat transport (LHT) are located in the upper and lower tropical atmosphere, respectively. This study investigates changes in meridional atmospheric energy transport and their underlying mechanisms using a global coupled atmosphere-ocean model. In the July 2017 simulations, the coupled model better captures the phase variation of DSET and exhibits a small LHT at 20&deg;N (approximately 1 PW) compared with the standalone atmospheric model. Ocean coupling decreases meridional gradient of ocean skin temperature, which mitigates the poleward propagation of convection. Consequently, the well-established meridional circulation not only increases low-level divergence but is also linked to changes in the spatial distribution of moisture. Our results show that ignoring the seasonal variability in ocean temperature can accelerate the hemispheric energy imbalance through the northwest Pacific region.
+{{< /expand >}}
+
+
 {{< expand  "Kim, Y., H. Song, K. Han, S.-I. Ah, Y.-G. Park, J. Marshall, Residual overturning circulation and associated water-mass transformation in the East/Japan Sea, *Journal of Physical Oceanography*, *accepted*" >}}
 #### Abstract
 The East/Japan Sea (EJS), a marginal sea in the northwest Pacific, has marked isopycnal slopes, especially during winter, implying a store of potential energy available for baroclinic instability and hence, perhaps, a significant role for eddy processes in shaping the residual (mean plus eddy) overturning circulation. Here, for the first time, we compute the residual overturning circulation in the EJS in a high resolution simulation and relate it to water-mass transformation processes due to air-sea fluxes and interior mixing. A sizable eddy-driven circulation is indeed found in the vicinity of tilted isopycnals.
@@ -212,12 +218,6 @@ We diagnose the ocean’s residual overturning circulation of the Arabian Gulf i
 <br>
 
 ### Manuscripts under review
-{{< expand  "Kwak, K., H. Song, N. Yeo, E.-C. Chang, M.-S. Koo, E. Lee and J. Park, Improved subseasonal prediction of Atmospheric Energy Transport over the Northwest Pacific using an atmosphere-ocean coupled model. Monthly Weather Review, *sub judice*" >}}
-{{< /expand >}}
-
-{{< expand  "Subeesh, M.P., H. Song, Y. Addad, J.R. Scott, J. Marshall and M.R. Al Shehhi, Seasonality of internal tides in the Strait of Hormuz: observations and modelling, Journal of Geophysical Research: Oceans, *sub judice*" >}}
-{{< /expand >}}
-
 {{< expand  "Zhan, P., Z. Yan, A. Karumuri, D. Guo, G. Krokos, H. Song and I. Hoteit, Beyond Steady Warming in Marginal Seas: Unraveling AMO’s Role in Driving Arabian Gulf Temperature Oscillations. Geophysical Research Letters, *sub judice*" >}}
 {{< /expand >}}
 
