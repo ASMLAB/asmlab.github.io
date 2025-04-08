@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research in ASML on ASML-YONSEI</title>
-    <link>http://localhost:1313/research/</link>
+    <link>https://airsea.yonsei.ac.kr/research/</link>
     <description>Recent content in Research in ASML on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://airsea.yonsei.ac.kr/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

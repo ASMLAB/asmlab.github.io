@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SIO on ASML-YONSEI</title>
-    <link>http://localhost:1313/tags/SIO/</link>
+    <link>https://airsea.yonsei.ac.kr/tags/SIO/</link>
     <description>Recent content in SIO on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Feb 2025 16:46:38 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/SIO/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://airsea.yonsei.ac.kr/tags/SIO/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 해양수산 청년연구자 응원해 도전해 프로그램 - Scripps Institution of Oceanography 방문</title>
-      <link>http://localhost:1313/news/kyungmin_SIO/</link>
+      <link>https://airsea.yonsei.ac.kr/news/kyungmin_SIO/</link>
       <pubDate>Mon, 09 Dec 2024 00:03:07 +0900</pubDate>
-      <guid>http://localhost:1313/news/kyungmin_SIO/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;heading&#34;&#xA;    &gt;&#xA;        &#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/kyungmin_SIO/#heading&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: &#34; aria-label=&#34;Anchor to: &#34; href=&#34;#heading&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;2024.10.27(일)부터 11.10(일)까지, &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;http://localhost:1313/group/kyungminkwak/#anchor&#34;&#xA;&gt;곽경민 연구원&lt;/a&gt;은 해양수산과학기술진흥원(KIMST)의 지원을 받아 스크립스 해양연구소를 방문하여 Dr. Mazloff와 Dr.Sun 과 함께 대기-해양-탄소 결합 모형 개발에 참여했습니다.&lt;/p&gt;&#xA;&lt;div class=&#39;image&#39;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/news/kyungmin_SIO.jpeg&#34; class=&#34;img-responsive; width:25%;&#34; alt=&#34;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;또한, 해외 기관 방문 후 성과 보고회를 통해 발표가 이루어졌으며, 이번 성과는 우수성을 입증하여 최우수상(해양수산과학기술진흥원장상)을 수상하였습니다. 수상을 축하드립니다!&lt;/p&gt;&#xA;&lt;div class=&#39;image&#39;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/news/kyungmin_award.jpeg&#34; class=&#34;img-responsive; width:25%;&#34; alt=&#34;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;</description>
+      <guid>https://airsea.yonsei.ac.kr/news/kyungmin_SIO/</guid>
+      <description>2024.10.27(일)부터 11.10(일)까지, 곽경민 연구원은 해양수산과학기술진흥원(KIMST)의 지원을 받아 스크립스 해양연구소를 방문하여 Dr. Mazloff와 Dr.Sun 과 함께 대기-해양-탄소 결합 모형 개발에 참여했습니다.&#xA;또한, 해외 기관 방문 후 성과 보고회를 통해 발표가 이루어졌으며, 이번 성과는 우수성을 입증하여 최우수상(해양수산과학기술진흥원장상)을 수상하였습니다. 수상을 축하드립니다!</description>
     </item>
     <item>
       <title>Visit to Scripps Institution of Oceanography</title>
-      <link>http://localhost:1313/news/sio/</link>
+      <link>https://airsea.yonsei.ac.kr/news/sio/</link>
       <pubDate>Sat, 01 Feb 2020 18:01:33 +0900</pubDate>
-      <guid>http://localhost:1313/news/sio/</guid>
-      <description>&lt;p&gt;Hajoon visited Bruce Cornuelle and Art Miller at Scripps Institution of Oceanography in February, 2020.&#xA;The main purpose of the visit is to set up the WRF-MITgcm coupled model over the northwest Pacific.&#xA;It was good to be back and meet amazing people there.&lt;/p&gt;&#xA;&lt;p&gt;This visit was possible through the support from Korea Research Foundation (신진연구).&lt;/p&gt;&#xA;&lt;div class=&#34;post-thumb&#34;&gt;&#xA;    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/news/sio_1.png&#34; alt=&#34;{{ .Title }}&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;div class=&#34;post-thumb&#34;&gt;&#xA;    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/news/sio_2.png&#34; alt=&#34;{{ .Title }}&#34;&gt;&#xA;&lt;/div&gt;</description>
+      <guid>https://airsea.yonsei.ac.kr/news/sio/</guid>
+      <description>Hajoon visited Bruce Cornuelle and Art Miller at Scripps Institution of Oceanography in February, 2020. The main purpose of the visit is to set up the WRF-MITgcm coupled model over the northwest Pacific. It was good to be back and meet amazing people there.&#xA;This visit was possible through the support from Korea Research Foundation (신진연구).</description>
     </item>
   </channel>
 </rss>
