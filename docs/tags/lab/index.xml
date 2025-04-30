@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab on ASML-YONSEI</title>
-    <link>https://airsea.yonsei.ac.kr/tags/lab/</link>
+    <link>http://localhost:1313/tags/lab/</link>
     <description>Recent content in Lab on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/lab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renovation</title>
-      <link>https://airsea.yonsei.ac.kr/news/renovation/</link>
+      <link>http://localhost:1313/news/renovation/</link>
       <pubDate>Sun, 30 Aug 2020 16:01:04 +0900</pubDate>
-      <guid>https://airsea.yonsei.ac.kr/news/renovation/</guid>
-      <description>The laboratory room was significantly renovated! The floor has been an issue in the last couple of years; an uneven surface with holes and duct tapes was not safe and made it difficult to put the desks and chairs. So first we leveled the floor (basically ground the stone) and put tiles on it. The job was well done and the room looked new!&#xA;We also replaced old desks that have been sitting here long before I joined.</description>
+      <guid>http://localhost:1313/news/renovation/</guid>
+      <description>&lt;p&gt;The laboratory room was significantly renovated! The floor has been an issue in the last couple of years; an uneven surface with holes and duct tapes was not safe and made it difficult to put the desks and chairs. So first we leveled the floor (basically ground the stone) and put tiles on it. The job was well done and the room looked new!&lt;br&gt;&#xA;We also replaced old desks that have been sitting here long before I joined. We were surprised to see white desks because we thought that we ordered the one with a wood grain pattern. But that was a great mistake! We all agreed that the white desks go well with the floor and shelves!&lt;br&gt;&#xA;Now the room, a place to dive into the science, is ready.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
