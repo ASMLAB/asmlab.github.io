@@ -48,13 +48,11 @@ The MITgcm example that we will do has an interesting grid structure. It is call
 Once you have `miniconda`, you may try to set up `cubedsphere` in the terminal app.
 Here are the steps shown in its [documentation](https://cubedsphere.readthedocs.io/en/latest/installation.html)
 ```
-conda create -n mitgcm
+conda create -n mitgcm python=3.9.12
 conda activate mitgcm
-conda install -c conda-forge cubedsphere
-conda install python=3.9.12
-```
-And let's do the followng line.
-```
+pip install numpy jupyterlab xarray xmitgcm xesmf xgcm
+conda install -c conda-forge esmpy
+pip install cubedsphere==0.2.1
 pip install git+https://github.com/MITgcm/xmitgcm.git
 ```
 When you are done, you could deactivate `mitgcm` environment like this.
