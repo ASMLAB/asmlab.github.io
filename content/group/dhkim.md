@@ -2,7 +2,7 @@
 title: "Donghyuk Kim"
 nickname: "dhkim"
 date: "2018-04-08T13:39:46+02:00"
-image: "images/group/dhkim.png"
+image: "images/group/dhkim_2025.png"
 bg_image: "images/fromiss2.jpg"
 category: "Ph.D. Program"
 information:

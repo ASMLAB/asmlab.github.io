@@ -2,7 +2,7 @@
 title: "Yujin Kim"
 nickname: "yujinkim"
 date: "2018-04-08T13:39:46+02:00"
-image: "images/group/yujinkim.jpg"
+image: "images/group/yujin_2025.png"
 bg_image: "images/fromiss2.jpg"
 category: "Ph.D Program"
 information:
@@ -26,3 +26,4 @@ weight: 4
 #### Awards
 + 2019 : Awarded Honors (2018-2)
 + 2020 : Awarded Honors (2019-2)
++ 2025 : Best Oral Presentation Award (Director General’s Award, Korea Hydrographic and Oceanographic Agency) at the OASIS Conference 

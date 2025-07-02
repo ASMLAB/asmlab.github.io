@@ -2,7 +2,7 @@
 title: "Ajin Cho"
 nickname: "ajincho"
 date: "2018-04-08T13:39:46+02:00"
-image: "images/group/AJIN.jpg"
+image: "images/group/ajin_2025.png"
 bg_image: "images/fromiss2.jpg"
 category: "Ph.D. Program"
 information:
@@ -15,7 +15,7 @@ information:
   - label: "Office"
     info: "Science Hall #532, Yonsei University"
   - label: "webpage"
-    info: ""
+    info: "https://sites.google.com/view/ajincho"
 weight: 3
 ---
 

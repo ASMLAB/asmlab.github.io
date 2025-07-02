@@ -1,6 +1,6 @@
 ---
-title: "Joonwoo Lee"
-nickname: "Joonwoo Lee"
+title: "Junwoo Lee"
+nickname: "Junwoo Lee"
 date: "2018-04-08T13:39:46+02:00"
 image: "images/group/joonwoolee.jpg"
 bg_image: "images/fromiss2.jpg"
