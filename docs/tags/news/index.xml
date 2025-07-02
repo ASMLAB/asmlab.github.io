@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on ASML-YONSEI</title>
-    <link>https://airsea.yonsei.ac.kr/tags/news/</link>
+    <link>http://localhost:1313/tags/news/</link>
     <description>Recent content in News on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:32:04 +0900</lastBuildDate>
-    <atom:link href="https://airsea.yonsei.ac.kr/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laboratory Open</title>
-      <link>https://airsea.yonsei.ac.kr/news/labopen/</link>
+      <link>http://localhost:1313/news/labopen/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
-      <guid>https://airsea.yonsei.ac.kr/news/labopen/</guid>
-      <description>Air-Sea Modeling Laboratory (ASML) open Air-Sea Modeling Laboratory(ASML) is opened</description>
+      <guid>http://localhost:1313/news/labopen/</guid>
+      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;air-sea-modeling-laboratory-asml-open&#34;&#xA;    &gt;&#xA;        Air-Sea Modeling Laboratory (ASML) open&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;http://localhost:1313/news/labopen/#air-sea-modeling-laboratory-asml-open&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: Air-Sea Modeling Laboratory (ASML) open&#34; aria-label=&#34;Anchor to: Air-Sea Modeling Laboratory (ASML) open&#34; href=&#34;#air-sea-modeling-laboratory-asml-open&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Air-Sea Modeling Laboratory(ASML) is opened&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
