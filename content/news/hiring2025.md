@@ -25,7 +25,7 @@ type: "post"
 
 2. 학부 연구원
 관측값이나 수치모델의 결과를 다양하게 분석하며 연구할 학생을 모집합니다.
-관심이 있으면 [지원서](https://docs.google.com/forms/d/e/1FAIpQLSfIZ1YJIuf3D6oBrGqaKyWQHxX6gH-1mmN3RxhQJ76WimAkmw/viewform?usp=sf_link) 작성을 해 주시기 바랍니다.
+관심이 있으면 [지원서](https://forms.gle/Q3rUmN1dntFa2DXRA) 작성을 해 주시기 바랍니다.
 
 
 많은 지원 바랍니다.  
