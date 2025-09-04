@@ -1,0 +1,32 @@
+---
+title: "Hiring"
+date: 2025-09-03T09:02:29+09:00
+author: Hajoon Song
+image : "images/hiring.jpeg"
+bg_image: "images/fromiss2.jpg"
+categories: ["Hiring"]
+tags: ["hiring","master", "PhD"]
+description: ""
+draft: false
+type: "post"
+---
+
+### 대기-해양 모델링 연구실에서 대학원생 연구원 및 학부 연구원을 모집합니다.
+
+저희 연구실에서는 대기-해양 상호작용이라는 큰 연구주제 아래 수치모델 및 deep learning 기법을 활용하여 대기-해양 물질 및 에너지 교환, 기후변화, 계절예측, 해양생지화학 등의 분야에 걸처 폭넓은 연구를 진행하고 있습니다.
+현재 박사급 연구원 5명, 박사과정생 6명 석사과정생 1명이 긴밀하게 협력하며 연구를 진행하고 있어, 대학원생들은 수시로 박사급 연구원들의 가이던스를 받으며 연구할 수 있는 환경이 만들어져있습니다.
+
+2025년 2학기를 맞아 언제나 **웃음이 넘처나는 대기해양모델링**에서 함께 연구할 수 있는 연구원을 모집하고 있습니다.
+
+1. 대학원생 연구원
+대기-해양 접합모델을 이용하여 대기-해양 상호작용과 이와 밀접한 관련이 있는 현상, 탄소순환, 해양생지화학 등의 연구에 관심이 있어서 대학원 진학을 희망하는 분들을 찾습니다. 2026년 1학기부터 시작하실 수 있고, 관심이 있다면 송하준 교수(hajsong@yonsei.ac.kr)에게 이메일로 지원 바랍니다.
+(연세대학교 대학원 입학에 관한 궁금증이 있으시면 [입학안내](http://graduate.yonsei.ac.kr/graduate/admission/schedule.do)를 참고해 주시기 바랍니다.)
+
+
+2. 학부 연구원
+관측값이나 수치모델의 결과를 다양하게 분석하며 연구할 학생을 모집합니다.
+관심이 있으면 [지원서](https://docs.google.com/forms/d/e/1FAIpQLSfIZ1YJIuf3D6oBrGqaKyWQHxX6gH-1mmN3RxhQJ76WimAkmw/viewform?usp=sf_link) 작성을 해 주시기 바랍니다.
+
+
+많은 지원 바랍니다.  
+감사합니다.
