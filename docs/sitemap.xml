@@ -75,7 +75,7 @@
     <lastmod>2025-01-09T22:08:57+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2025-04-30T12:37:45+09:00</lastmod>
+    <lastmod>2025-08-31T15:47:52+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/group/jieunshin/</loc>
     <lastmod>2025-01-07T13:13:48+09:00</lastmod>
@@ -116,16 +116,40 @@
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/hiring/</loc>
+    <lastmod>2025-09-03T09:02:29+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/hiring2025/</loc>
+    <lastmod>2025-09-03T09:02:29+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/master/</loc>
+    <lastmod>2025-09-03T09:02:29+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/PhD/</loc>
+    <lastmod>2025-09-03T09:02:29+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-03T09:02:29+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/aogs_2025/</loc>
+    <lastmod>2025-09-02T09:13:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/AOGS/</loc>
+    <lastmod>2025-09-02T09:13:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/conference/</loc>
+    <lastmod>2025-09-02T09:13:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/baco_2025/</loc>
+    <lastmod>2025-09-02T09:13:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/BACO/</loc>
+    <lastmod>2025-09-02T09:13:20+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/oasis_2025/</loc>
     <lastmod>2025-07-02T14:37:05+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/conference/</loc>
-    <lastmod>2025-07-02T14:37:05+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/OASIS/</loc>
-    <lastmod>2025-07-02T14:37:05+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-02T14:37:05+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/event/</loc>
@@ -159,9 +183,6 @@
     <lastmod>2025-02-25T16:46:38+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/aogs_2024/</loc>
-    <lastmod>2024-07-13T00:59:41+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/AOGS/</loc>
     <lastmod>2024-07-13T00:59:41+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/IWMO/</loc>
@@ -260,9 +281,6 @@
     <loc>http://localhost:1313/news/webpage_update/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hiring/</loc>
-    <lastmod>2022-04-09T23:32:04+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/postdoc/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
@@ -273,12 +291,6 @@
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/hiring/</loc>
-    <lastmod>2022-04-09T23:32:04+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/master/</loc>
-    <lastmod>2022-04-09T23:32:04+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/PhD/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/MIT/</loc>
