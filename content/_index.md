@@ -52,6 +52,25 @@ geekdocHidden: true
     <!-- item #1 -->
     <li>
       <div class="card shadow h-100">
+        <a href="https://rdcu.be/d9Opj">
+        <div class="ratio ratio-16x9">
+          <img src="/files/research_figs/fig1.png" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        </a>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Lee et al. (2025)</strong>
+            <p class="card-text">"Observed multi-decadal increase in the surface ocean’s thermal inertia"</p>
+          </div>
+          <a href="https://rdcu.be/d8QO9">
+          <div class="px-md-2">in Nature Climate Change</div>
+      </a>
+        </div>
+      </div>
+    </li>
+    <!-- item #1 -->
+    <li>
+      <div class="card shadow h-100">
         <a href="/research/airsea/current_ajin/">
         <div class="ratio ratio-16x9">
           <img src="/files/research_figs/8.png" class="card-img-top" loading="lazy" alt="...">
