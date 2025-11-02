@@ -49,6 +49,7 @@ weight: 1
 + Atmospheric and Oceanic circulation (ATM2106)
 
 #### Media
++ [2025년 연세대학교 대표 홍보영상](https://youtu.be/oeusbL4ABBE?si=vLx8imd_CtXnhuIS)
 + [SBS news, 2025](https://news.sbs.co.kr/news/endPage.do?news_id=N1008043878)
 + [YTN Science, 2025](https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202502171639120933)
 + [SBS news, 2024](https://news.sbs.co.kr/news/endPage.do?news_id=N1007925721)
