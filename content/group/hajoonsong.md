@@ -49,5 +49,9 @@ weight: 1
 + Atmospheric and Oceanic circulation (ATM2106)
 
 #### Media
++ [SBS news, 2025](https://news.sbs.co.kr/news/endPage.do?news_id=N1008043878)
++ [YTN Science, 2025](https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202502171639120933)
++ [SBS news, 2024](https://news.sbs.co.kr/news/endPage.do?news_id=N1007925721)
++ [YTN 다큐프라임](https://youtu.be/OZAg7bWMzj8?si=7g-kmXAqKTE65uvr&t=1488)
 + [강의TIPS 제35호 “나만의 온라인 수업 전략”](http://ictl.yonsei.ac.kr/reference/%EA%B0%95%EC%9D%98tips-%EC%A0%9C35%ED%98%B8-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%88%98%EC%97%85-%EC%A0%84%EB%9E%B5-2020-9-%EB%B0%9C%EA%B0%84/)
 + [KBS news](https://news.kbs.co.kr/news/view.do?ncd=4114578)
