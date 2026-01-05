@@ -6,7 +6,7 @@ image: "images/group/hyojkim.png"
 category: "Researcher"
 information:
   - label: "Title"
-    info: "Postdoc Researcher"
+    info: "Research Professor"
   - label: "email"
     info: "kimhj29@yonsei.ac.kr"
   - label: "phone"
@@ -50,3 +50,4 @@ weight: 2
 + H.-J. Kim, S.-I. An, and D. Kim (2021) Timescale-dependent AMOC-AMO relationship in an earth system model of intermediate complexity, Int J Climatol, 41, E3298-E3306
 + H.-J. Kim and S.-I. An (2019) Impact of North Atlantic Freshwater Forcing on Pacific Meridional Overturning Circulation under Glacial and Interglacial Conditions, J Clim, 32. 4641-4659
 + S.-I. An, H.-J. Kim, W. Park, and B. Schneider (2017) Impact of ENSO on East Asian winter monsoon during interglacial periods: effect of orbital forcing. Clim Dyn, 49(9), 3209-3219.
+
