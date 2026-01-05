@@ -6,7 +6,7 @@ image: "images/group/yeonjuchoi.png"
 category: "Researcher"
 information:
   - label: "Title"
-    info: "Postdoc Researcher"
+    info: "Research Professor"
   - label: "email"
     info: "ywn0709@yonsei.ac.kr"
   - label: "phone"
@@ -32,3 +32,4 @@ weight: 2
 
 #### Teaching
 + Computer 2 (Fortran) (SCI2002)
+
