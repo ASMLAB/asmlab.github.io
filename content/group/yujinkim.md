@@ -15,7 +15,7 @@ information:
   - label: "Office"
     info: "Science Hall #532, Yonsei University"
   - label: "webpage"
-    info: ""
+    info: "https://sites.google.com/yonsei.ac.kr/yujin-kim"
 weight: 4
 ---
 
