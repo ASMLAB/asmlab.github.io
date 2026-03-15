@@ -15,7 +15,7 @@ information:
     info: "Science Hall #522B, Yonsei University"
   - label: "webpage"
     info: " http://airsea.yonsei.ac.kr"
-weight: 2
+weight: 3
 ---
 
 #### Research Interests

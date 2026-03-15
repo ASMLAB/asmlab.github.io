@@ -37,21 +37,27 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
       <td>Currently: Postdoctoral Researcher at Princeton University/GFDL</td>
     </tr>
     <tr>
+      <td style="min-width:100px"><center><img src="/images/group/ajin_2025.png" width="80px" alt=""></center></td>
+      <td>Ajin Cho</td>
+      <td>Ph.D.<br>(2026)</td>
+      <td>Currently: Postdoctoral Researcher at Colorado School of Mines</td>
+    </tr>
+    <tr>
       <td style="min-width:100px"><center><img src="/images/group/kyunghunhan.png" width="100px" alt=""></center></td>
       <td>Kyunghun Han</td>
-      <td>Master<br>(2021 - 2023)</td>
+      <td>Master<br>(2023)</td>
       <td>Currently: Naval Officer</td>
     </tr>
     <tr>
       <td style="min-width:100px"><center><img src="/images/group/chlee.jpeg" width="100px" alt=""></center></td>
       <td>Chaehyeong Lee</td>
-      <td>Master<br>(2021 - 2023)</td>
+      <td>Master<br>(2023)</td>
       <td>Currently: Graduate student at University of Colorado, Boulder</td>
     </tr>
     <tr>
       <td style="min-width:100px"><center><img src="/images/group/hjmin.jpeg" width="80px" alt=""></center></td>
       <td>Hyungjoon Min</td>
-      <td>Master<br>(2023 - 2025)</td>
+      <td>Master<br>(2025)</td>
       <td>Currently: Researcher at Seoul National University</td>
     </tr>
     <tr>
