@@ -2,7 +2,7 @@
 title: "Kyungmin Kwak"
 nickname: "kyungminkwak"
 date: "2018-04-08T13:39:46+02:00"
-image: "images/group/kwakkyungmin.png"
+image: "images/group/kmkwak_2026.png"
 bg_image: "images/fromiss2.jpg"
 category: "Researcher"
 information:
