@@ -18,7 +18,8 @@ They began their graduate studies in 2019, received their Master’s degree in o
 Big congratulations! We are very proud of you.
 
 <div class='image'>
-<img src="/images/news/kmin_defence.png" class="img-responsive; width:50%;" alt="">
-<img src="/images/news/ajin_defence.png" class="img-responsive; width:50%;" alt="">
+<img src="/images/news/kyungmin_grad.png" class="img-responsive; width:50%;" alt="">
+<img src="/images/news/ajin_grad.png" class="img-responsive; width:50%;" alt="">
+<img src="/images/news/grad_2026.png" class="img-responsive; width:50%;" alt="">
 </div>
 <br>
