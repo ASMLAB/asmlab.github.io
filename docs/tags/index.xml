@@ -6,27 +6,62 @@
     <description>Recent content in Tags on ASML-YONSEI</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 15:11:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:23:50 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Graduation</title>
-      <link>http://localhost:1313/tags/graduation/</link>
-      <pubDate>Mon, 05 Jan 2026 00:43:34 +0900</pubDate>
-      <guid>http://localhost:1313/tags/graduation/</guid>
+      <title>Hiring</title>
+      <link>http://localhost:1313/tags/hiring/</link>
+      <pubDate>Mon, 20 Apr 2026 22:23:50 +0900</pubDate>
+      <guid>http://localhost:1313/tags/hiring/</guid>
       <description></description>
     </item>
     <item>
-      <title>Member</title>
-      <link>http://localhost:1313/tags/member/</link>
-      <pubDate>Mon, 05 Jan 2026 00:43:34 +0900</pubDate>
-      <guid>http://localhost:1313/tags/member/</guid>
+      <title>Master</title>
+      <link>http://localhost:1313/tags/master/</link>
+      <pubDate>Mon, 20 Apr 2026 22:23:50 +0900</pubDate>
+      <guid>http://localhost:1313/tags/master/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PhD</title>
+      <link>http://localhost:1313/tags/PhD/</link>
+      <pubDate>Mon, 20 Apr 2026 22:23:50 +0900</pubDate>
+      <guid>http://localhost:1313/tags/PhD/</guid>
       <description></description>
     </item>
     <item>
       <title>Event</title>
       <link>http://localhost:1313/tags/event/</link>
-      <pubDate>Tue, 23 Dec 2025 00:43:34 +0900</pubDate>
+      <pubDate>Fri, 03 Apr 2026 00:43:34 +0900</pubDate>
       <guid>http://localhost:1313/tags/event/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Member</title>
+      <link>http://localhost:1313/tags/member/</link>
+      <pubDate>Fri, 13 Mar 2026 00:43:34 +0900</pubDate>
+      <guid>http://localhost:1313/tags/member/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:1313/tags/conference/</link>
+      <pubDate>Sun, 01 Mar 2026 17:41:18 +0900</pubDate>
+      <guid>http://localhost:1313/tags/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSM</title>
+      <link>http://localhost:1313/tags/OSM/</link>
+      <pubDate>Sun, 01 Mar 2026 17:41:18 +0900</pubDate>
+      <guid>http://localhost:1313/tags/OSM/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graduation</title>
+      <link>http://localhost:1313/tags/graduation/</link>
+      <pubDate>Mon, 05 Jan 2026 00:43:34 +0900</pubDate>
+      <guid>http://localhost:1313/tags/graduation/</guid>
       <description></description>
     </item>
     <item>
@@ -37,38 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>Hiring</title>
-      <link>http://localhost:1313/tags/hiring/</link>
-      <pubDate>Wed, 03 Sep 2025 09:02:29 +0900</pubDate>
-      <guid>http://localhost:1313/tags/hiring/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Master</title>
-      <link>http://localhost:1313/tags/master/</link>
-      <pubDate>Wed, 03 Sep 2025 09:02:29 +0900</pubDate>
-      <guid>http://localhost:1313/tags/master/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PhD</title>
-      <link>http://localhost:1313/tags/PhD/</link>
-      <pubDate>Wed, 03 Sep 2025 09:02:29 +0900</pubDate>
-      <guid>http://localhost:1313/tags/PhD/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>AOGS</title>
       <link>http://localhost:1313/tags/AOGS/</link>
       <pubDate>Fri, 01 Aug 2025 23:03:07 +0900</pubDate>
       <guid>http://localhost:1313/tags/AOGS/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conference</title>
-      <link>http://localhost:1313/tags/conference/</link>
-      <pubDate>Fri, 01 Aug 2025 23:03:07 +0900</pubDate>
-      <guid>http://localhost:1313/tags/conference/</guid>
       <description></description>
     </item>
     <item>
@@ -111,13 +118,6 @@
       <link>http://localhost:1313/tags/IWMO/</link>
       <pubDate>Thu, 20 Jun 2024 09:36:36 +0900</pubDate>
       <guid>http://localhost:1313/tags/IWMO/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OSM</title>
-      <link>http://localhost:1313/tags/OSM/</link>
-      <pubDate>Sat, 24 Feb 2024 17:41:18 +0900</pubDate>
-      <guid>http://localhost:1313/tags/OSM/</guid>
       <description></description>
     </item>
     <item>
