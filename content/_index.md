@@ -36,11 +36,11 @@ geekdocHidden: true
       </div>
     </div>
     </a>
+    <a id="hiring" href="https://forms.gle/Aq8ktWYuw5jsL8Vm7" target="_blank">
+      <span span style="background: rgba(0,0,0,0.5);">학부인턴 및 대학원생 모집</span>
+    </a>
     <a id="banner" href="/model" target="_blank">
       <span style="background: rgba(0,0,0,0.5);">Check out our simulations</span>
-    </a>
-    <a id="hiring" href="https://forms.gle/Aq8ktWYuw5jsL8Vm7" target="_blank">
-      <span span style="background: rgba(0,0,0,0.5);">학부인턴 모집</span>
     </a>
   </body>
 </html>
