@@ -28,7 +28,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
       <td style="min-width:100px"><center><img src="/images/group/yjtak.jpg" width="100px" alt=""></center></td>
       <td>Yong-Jin Tak</td>
       <td>Postdoctoral Researcher<br>(2020 - 2022)</td>
-      <td>Currently: Assistant Professor at Gangneung-Wonju National University</td>
+      <td>Currently: Assistant Professor at Kangwon National University</td>
     </tr>
     <tr>
       <td style="min-width:100px"><center><img src="/images/group/kyungminnoh.png" width="80px" alt=""></center></td>
