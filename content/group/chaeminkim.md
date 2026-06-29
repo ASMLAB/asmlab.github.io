@@ -1,13 +1,13 @@
 ---
 title: "Chaemin Kim"
 nickname: "Chaemin Kim"
-date: "2026-03-01T13:39:46+02:00"
+date: "2026-06-01T13:39:46+02:00"
 image: "images/group/chaemin.png"
 bg_image: "images/fromiss2.jpg"
-category: "Researcher"
+category: "Master Program"
 information:
   - label: "Title"
-    info: "Undergraduate Intern"
+    info: "Research Assistant"
   - label: "email"
     info: "kcm6424@naver.com"
   - label: "phone"
