@@ -22,3 +22,5 @@ weight: 4
 #### Education
 + **B.S.** (2022) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
+#### Awards
++ 2026 : Best Presentation Award (Director General’s Award, Korea Hydrographic and Oceanographic Agency) at the OASIS Conference
