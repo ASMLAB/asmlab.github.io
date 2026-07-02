@@ -19,6 +19,11 @@ information:
 weight: 4
 ---
 
+#### Research Interests
++ Air-Sea interaction
++ Regional Ocean model
++ Physical Oceanography 
+
 #### Education
 + **M.S.** (2023) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.S.** (2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
@@ -27,3 +32,5 @@ weight: 4
 + 2019 : Awarded Honors (2018-2)
 + 2020 : Awarded Honors (2019-2)
 + 2025 : Best Oral Presentation Award (Director General’s Award, Korea Hydrographic and Oceanographic Agency) at the OASIS Conference 
++ 2025 : Best Oral Presentation Award at the KGU 2025 (Korea Geoscience Union) 
++ 2026 : Merit Academic Paper Award (Yonsei University)
