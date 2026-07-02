@@ -19,6 +19,11 @@ information:
 weight: 5
 ---
 
+#### Research Interests
++ Air-Sea interaction
++ Ocean Surface Wave
++ Machine learning
+
 #### Education
 + **B.S.** (2025) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
