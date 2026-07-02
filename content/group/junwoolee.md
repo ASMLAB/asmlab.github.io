@@ -1,7 +1,7 @@
 ---
 title: "Junwoo Lee"
 nickname: "Junwoo Lee"
-date: "2018-04-08T13:39:46+02:00"
+date: "2022-04-08T13:39:46+02:00"
 image: "images/group/junwoolee_2026.png"
 bg_image: "images/fromiss2.jpg"
 category: "Master Program"
