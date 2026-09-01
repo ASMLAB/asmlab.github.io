@@ -17,5 +17,8 @@ information:
     info: "Science Hall #532, Yonsei University"
   - label: "webpage"
     info: ""
-weight: 6
+weight: 7
 ---
+
+#### Awards
++ 2026 : Awarded Higher Honors (2026-1)
