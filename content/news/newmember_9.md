@@ -1,6 +1,6 @@
 ---
 title: "New members, 2026"
-date: 2026-09-01T16:53:20+09:00
+date: 2026-09-01T14:53:20+09:00
 image: "images/news/STOCK_Welcome3.jpg"
 author: Hajoon Song
 bg_image: "images/fromiss2.jpg"
