@@ -2,7 +2,7 @@
 title: "Chaemin Kim"
 nickname: "Chaemin Kim"
 date: "2026-06-01T13:39:46+02:00"
-image: "images/group/chaemin.png"
+image: "images/group/chaemin2026.png"
 bg_image: "images/fromiss2.jpg"
 category: "Master Program"
 information:
