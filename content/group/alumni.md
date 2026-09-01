@@ -3,17 +3,68 @@ title: "Alumni"
 weight: 10
 ---
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;}
-.tg .tg-44m2{font-weight:bold;font-size:16px;font-family:"Arial Black", Gadget, sans-serif !important;;background-color:#efefef;color:#444444;border-color:#efefef;text-align:center}
-.tg .tg-s8ju{font-size:15px;border-color:inherit;text-align:center}
-.tg .tg-artz{font-weight:bold;font-size:15px;font-family:"Arial Black", Gadget, sans-serif !important;;background-color:#efefef;color:#444444;border-color:#efefef;text-align:center}
-th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::selection      { background:transparent; }th.tg-sort-header { cursor:pointer; }table th.tg-sort-header:after {  content:'';  float:right;  margin-top:7px;  border-width:0 4px 4px;  border-style:solid;  border-color:#404040 transparent;  visibility:hidden;  }table th.tg-sort-header:hover:after {  visibility:visible;    }table th.tg-sort-desc:after,table th.tg-sort-asc:after,table th.tg-sort-asc:hover:after {  visibility:visible;  opacity:0.4;  }table th.tg-sort-desc:after {  border-bottom:none;  border-width:4px    4px 0;  }@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 
+<style>
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 0 auto;
+  width: 100%;
+}
+.tg td {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  padding: 20px 6px;
+  border: none;
+  overflow: visible;          /* was hidden — caused clipping */
+  word-break: break-word;     /* allow long text to wrap */
+  vertical-align: top;
+}
+.tg img {
+  max-width: 80px;
+  height: auto;
+}
+
+/* Desktop: normal table */
+@media screen and (min-width: 768px) {
+  .tg-wrap { width: 100%; }
+}
+
+/* Mobile: each row becomes a vertical card */
+@media screen and (max-width: 767px) {
+  .tg,
+  .tg tbody,
+  .tg tr,
+  .tg td {
+    display: block;
+    width: 100%;
+    min-width: 0 !important;
+  }
+  .tg tr {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  .tg td {
+    padding: 6px 0;
+    text-align: center;
+  }
+  .tg td:empty {
+    display: none;            /* hide empty photo cells */
+  }
+  .tg td:first-child img {
+    width: 120px;        /* larger on phone — adjust as you like */
+    max-width: 60vw;     /* never wider than 60% of screen */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}
+</style>
+
+<div class="tg-wrap">
 <!-- CSS only -->
-<table class="tg" style="width: 100%">
+<table class="tg">
   <!--caption>Statement Summary</caption>
   <thead>
     <tr>
@@ -24,52 +75,58 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     </tr>
   </thead-->
   <tbody>
-    <tr>
-      <td style="min-width:100px"><center><img src="/images/group/yjtak.jpg" width="100px" alt=""></center></td>
-      <td>Yong-Jin Tak</td>
-      <td>Postdoctoral Researcher<br>(2020 - 2022)</td>
-      <td>Currently: Assistant Professor at Kangwon National University</td>
-    </tr>
-    <tr>
-      <td style="min-width:100px"><center><img src="/images/group/kyungminnoh.png" width="80px" alt=""></center></td>
-      <td>KyungMin Noh</td>
-      <td>Postdoctoral Researcher<br>(2023)</td>
-      <td>Currently: Postdoctoral Researcher at Princeton University/GFDL</td>
-    </tr>
-    <tr>
-      <td style="min-width:100px"><center><img src="/images/group/ajin_2025.png" width="80px" alt=""></center></td>
+     <tr>
+      <td style="min-width:100px"><center><img src="/images/group/ajin_2025.png" alt="Ajin Cho"></center></td>
       <td>Ajin Cho</td>
       <td>Ph.D.<br>(2026)</td>
       <td>Currently: Postdoctoral Researcher at Colorado School of Mines</td>
     </tr>
     <tr>
-      <td style="min-width:100px"><center><img src="/images/group/kyunghunhan.png" width="100px" alt=""></center></td>
-      <td>Kyunghun Han</td>
-      <td>Master<br>(2023)</td>
-      <td>Currently: Naval Officer</td>
+      <td style="min-width:100px"><center><img src="/images/group/kmkwak_2026.png" alt="Kyungmin Kwak"></center></td>
+      <td>Kyungmin Kwak</td>
+      <td>Ph.D.<br>(2026)</td>
+      <td>Currently: Postdoctoral Researcher at NOAA AOML</td>
     </tr>
     <tr>
-      <td style="min-width:100px"><center><img src="/images/group/chlee.jpeg" width="100px" alt=""></center></td>
+      <td style="min-width:100px"><center><img src="/images/group/hjmin.jpeg" alt="Hyungjoon Min"></center></td>
+      <td>Hyungjoon Min</td>
+      <td>Master<br>(2025)</td>
+      <td>Currently: Graduate student at Seoul National University</td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"><center><img src="/images/group/chlee.jpeg" alt="Chaehyeong Lee"></center></td>
       <td>Chaehyeong Lee</td>
       <td>Master<br>(2023)</td>
       <td>Currently: Graduate student at University of Colorado, Boulder</td>
     </tr>
     <tr>
-      <td style="min-width:100px"><center><img src="/images/group/hjmin.jpeg" width="80px" alt=""></center></td>
-      <td>Hyungjoon Min</td>
-      <td>Master<br>(2025)</td>
-      <td>Currently: Researcher at Seoul National University</td>
+      <td style="min-width:100px"><center><img src="/images/group/kyunghunhan.png" alt="Kyunghun Han"></center></td>
+      <td>Kyunghun Han</td>
+      <td>Master<br>(2023)</td>
+      <td>Currently: Naval Officer</td>
     </tr>
     <tr>
-      <td style="min-width:100px"></td>
-      <td>Chohyun Lee</td>
-      <td>2020-2022</td>
-      <td>Currently: Korea Polar Research Institute (KOPRI)</td>
+      <td style="min-width:100px"><center><img src="/images/group/yjtak.jpg" alt="Yong-Jin Tak"></center></td>
+      <td>Yong-Jin Tak</td>
+      <td>Postdoctoral Researcher<br>(2020 - 2022)</td>
+      <td>Currently: Assistant Professor at Kangwon National University</td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"><center><img src="/images/group/kyungminnoh.png" alt="KyungMin Noh"></center></td>
+      <td>KyungMin Noh</td>
+      <td>Postdoctoral Researcher<br>(2023)</td>
+      <td>Currently: Postdoctoral Researcher at Princeton University/GFDL</td>
     </tr>
     <tr>
       <td style="min-width:100px"></td>
       <td>SeungYeon Choi</td>
       <td>2022-2024</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
+      <td>Chohyun Lee</td>
+      <td>2020-2022</td>
       <td></td>
     </tr>
     <tr>
@@ -104,3 +161,4 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     </tr-->
   </tbody>
 </table>
+</div>

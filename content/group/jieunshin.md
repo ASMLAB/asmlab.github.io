@@ -1,7 +1,7 @@
 ---
 title: "Jieun Shin"
 nickname: "Jieun Shin"
-date: "2025-01-06T13:39:46+02:00"
+date: "2025-01-01T13:39:46+02:00"
 image: "images/group/jieunshin.png"
 bg_image: "images/fromiss2.jpg"
 category: "Master Program"
