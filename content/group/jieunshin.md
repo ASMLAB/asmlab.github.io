@@ -16,7 +16,7 @@ information:
     info: "Science Hall #532, Yonsei University"
   - label: "webpage"
     info: ""
-weight: 5
+weight: 6
 ---
 
 #### Research Interests
