@@ -28,4 +28,5 @@ weight: 6
 + **B.S.** (2025) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards
++ 2023 : Awarded Honors (2023-2)
 + 2026 : Excellence Presentation Award (OASIS Steering Committee Chair Award) at the OASIS Conference
