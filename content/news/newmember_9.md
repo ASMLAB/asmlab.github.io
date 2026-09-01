@@ -14,7 +14,7 @@ type: "post"
 There has been an addition of new members to ASML in 2026.
 
 <div class='image'>
-<img src="/images/group/chaemin2026.jpg" class="img-responsive" style="width:50%;" alt="">
+<img src="/images/group/chaemin2026.png" class="img-responsive" style="width:50%;" alt="">
 </div>
 
 **[Chaemin Kim](/group/chaeminkim/#anchor)** joined ASML through the master program.
