@@ -119,8 +119,20 @@ weight: 10
     </tr>
     <tr>
       <td style="min-width:100px"></td>
+      <td>Hyowon Jung</td>
+      <td>2026</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
       <td>SeungYeon Choi</td>
       <td>2022-2024</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
+      <td>JungJin Lee</td>
+      <td>2024</td>
       <td></td>
     </tr>
     <tr>
