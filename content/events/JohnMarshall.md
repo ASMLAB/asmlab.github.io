@@ -34,14 +34,14 @@ description: ""
 
 {{< /columns >}}
 
-강연을 마친 뒤, air-sea modeling lab 연구원들과 함께 기념사진도 촬영하였습니다.
+<!-- 강연을 마친 뒤, air-sea modeling lab 연구원들과 함께 기념사진도 촬영하였습니다.
 
 {{< columns >}} 
 <div class='image'>
 <img src="/images/with_John_2.jpeg" class="img-responsive; width:40%;" alt="">
-</div>
+</div> -->
 <---> <!-- magic separator, between columns -->
-<div class='image'>
+<!-- <div class='image'>
 <img src="/images/with_John_9.jpeg" class="img-responsive; width:60%;" alt="">
 </div>
-{{< /columns >}}
+{{< /columns >}} -->
