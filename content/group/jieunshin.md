@@ -30,3 +30,4 @@ weight: 6
 #### Awards
 + 2023 : Awarded Honors (2023-2)
 + 2026 : Excellence Presentation Award (OASIS Steering Committee Chair Award) at the OASIS Conference
++ 2026 : Outstanding Presentation Award at Korean Meteorological Society (KMS)
