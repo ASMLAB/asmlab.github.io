@@ -7,7 +7,7 @@ bg_image: "images/fromiss2.jpg"
 category: "Principal Investigator"
 information:
   - label: "Title"
-    info: "Associate Professor"
+    info: "Professor"
   - label: "email"
     info: "hajsong@yonsei.ac.kr"
   - label: "phone"
@@ -32,7 +32,8 @@ weight: 1
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Research Experiences
-+ 2022.3 - : Associate Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea
++ 2026.9 - : Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea
++ 2022.3 - 2026.8: Associate Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea
 + 2018.3 - 2022.2: Assistant Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea
 + 2019.2 : Visiting Professor, MIT, Cambridge, USA
 + 2018.7 - 2018.8: Visiting Scholar, MIT, Cambridge, USA
